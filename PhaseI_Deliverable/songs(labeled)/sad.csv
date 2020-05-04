@@ -1,0 +1,1602 @@
+,album_artist,album_mood,album_title,allmusic_href,lyrics,lyrics(normalized_no_stopwords),lyrics(normalized_with_stopwords),positive_score,negative_score,compound_score,sentiment_label,lyrics_href,track_genres,track_length,track_moods,track_title,track_url
+0,The Flying Burrito Brothers,sad,Hot Burritos! The Flying?,/album/hot-burritos%21-the-flying-burrito-brothers-anthology-1969-1972-mw0000060947,"All alone she waits at the window
+While the sun sets in the sea
+Is that the sound of his foot steps 
+That echoes in the hall
+And then they fade away 
+No, it wasn't him after all
+
+He was gone in the early morning
+And he said he wouldn't be long
+But that was spring and now 
+That the leaves have all turned brown
+She only shares her bed with 
+The loneliness she has found
+
+Still she waits alone at the window
+For the one who wandered away
+Each day the room grows colder 
+Her tears grow harder to hold
+And still she saves her love 
+For the day she knows he'll come home",alone wait window sun set sea sound foot step echo hall fade away no not go early morning say would not long spring leaf turn brown share bed loneliness find still wait alone window one wander away day room grow cold tear grow harder hold still save love day know come home,all alone she wait at the window while the sun set in the sea be that the sound of his foot step that echo in the hall and then they fade away no it be not him after all he be go in the early morning and he say he would not be long but that be spring and now that the leaf have all turn brown she only share her bed with the loneliness she have find still she wait alone at the window for the one who wander away each day the room grow cold her tear grow harder to hold and still she save her love for the day she know he will come home,0.151,0.142,0.3818,1,/lyric/514532/The+Flying+Burrito+Brothers/All+Alone,['Pop/Rock'],2:23,"['sad', 'yearning']",All Alone,https://www.allmusic.com/song/all-alone-mt0008518093
+1,The Cure,sad,Disintegration,/album/disintegration-mw0000203095,"Hey hey, just one more and I'll walk away 
+All the everything you win turns to nothing today 
+And I forget when to move when my mouth is this 
+Dry and my eyes are bursting hearts in a blood-stained sky 
+Oh it was sweet, it was wild and oh how we
+
+I trembled, stuck in honey 
+Honey cling to me, so just one more
+Just one more go 
+Inspire in me the desire in me to never go home 
+(Doo doo doo doo doo doo)
+(Doo doo doo doo doo)
+Oh just one more and I'll walk away 
+All the everything you win turns to nothing today 
+So just one more, just one more go inspire in me 
+The desire in me to never go home
+To never go home
+(Doo doo doo doo doo doo)",hey hey one walk away everything win turn nothing today forget move mouth dry eye burst heart blood stain sky oh sweet wild oh tremble stick honey honey cl one one go inspire desire never go home doo doo doo doo doo doo doo doo doo doo doo oh one walk away everything win turn nothing today one one go inspire desire never go home never go home doo doo doo doo doo doo,hey hey just one more and i will walk away all the everything you win turn to nothing today and i forget when to move when my mouth be this dry and my eye be burst heart in a blood stain sky oh it be sweet it be wild and oh how we i tremble stick in honey honey cl to me so just one more just one more go inspire in me the desire in me to never go home doo doo doo doo doo doo doo doo doo doo doo oh just one more and i will walk away all the everything you win turn to nothing today so just one more just one more go inspire in me the desire in me to never go home to never go home doo doo doo doo doo doo ,0.272,0.023,0.9718,1,/lyric/2327489/The+Cure/Homesick+%5B%2A%5D,['Pop/Rock'],7:08,"['bleak', 'reflective', 'poignant', 'bittersweet', 'gloomy', 'melancholy', 'sad', 'brooding']",Homesick,https://www.allmusic.com/song/homesick-mt0039680802
+2,George Jones,sad,Cup of Loneliness: The?,/album/cup-of-loneliness-the-classic-mercury-years-mw0000119481,"I've been living a new way
+Of life that I love so
+But I can see the clouds are gathering
+And the storm will wreck our home
+
+For last night he held you tightly
+And you didn't even shove
+This is true for I've been watching (watching you)
+From the window up above
+
+You must have thought that I was sleeping
+And I wish that I had been
+But it's guess to get to know you
+And the way your heart can sin
+
+I thought we belonged together
+And our hearts fit like a glove
+But I was wrong for I've been watching (watching you)
+From the window up above
+
+From my eyes the teardrops started
+As I listened on and on
+I heard you whisper to him softly
+That our marriage was all wrong
+
+But I hope he makes you happy
+And you will never lose his love
+I lost mine while I was watching (watching you)
+From the window up above
+
+How I wish I could be dreaming
+And wake up to an honest love that's true
+But I'm wrong for I've been watching (watching you)
+From the window up above",live new way life love see cloud gather storm wreck home last night hold tightly not even shove true watch watch window must think sleep wish guess get know way heart sin think belong together heart fit like glove wrong watch watch window eye teardrop start listen hear whisper softly marriage wrong hope make happy never lose love lose mine watch watch window wish could dream wake honest love true wrong watch watch window,i have be live a new way of life that i love so but i can see the cloud be gather and the storm will wreck our home for last night he hold you tightly and you do not even shove this be true for i have be watch watch you from the window up above you must have think that i be sleep and i wish that i have be but it be guess to get to know you and the way your heart can sin i think we belong together and our heart fit like a glove but i be wrong for i have be watch watch you from the window up above from my eye the teardrop start as i listen on and on i hear you whisper to him softly that our marriage be all wrong but i hope he make you happy and you will never lose his love i lose mine while i be watch watch you from the window up above how i wish i could be dream and wake up to an honest love that be true but i be wrong for i have be watch watch you from the window up above,0.346,0.18,0.9581,1,/lyric/72730/George+Jones/Window+up+Above,"['Country', 'Pop/Rock']",2:33,"['bittersweet', 'melancholy', 'nocturnal', 'plaintive', 'poignant', 'sad', 'wistful', 'yearning']",Window up Above,https://www.allmusic.com/song/window-up-above-mt0007867001
+3,George Jones,sad,Cup of Loneliness: The?,/album/cup-of-loneliness-the-classic-mercury-years-mw0000119481,"Heartache number one was when you left me
+I never knew that I could hurt this way
+And heartache number two was when you come back again
+You came back and never meant to stay
+
+[Chorus]
+Now I've got heartaches by the number, troubles by the score
+Everyday you love me less, each day I love you more
+Yes I've got heartaches by the number, a love that I can't win
+But the day that I stop counting, that's the day my world will end
+
+Heartache number three was when you called me
+And said that you were coming back to stay
+With hopeful heart I waited for your knock on the door
+I waited but you must have lost your way
+
+[Chorus]",heartache number one leave never know could hurt way heartache number two come back come back never mean stay [ chorus ] get heartache number trouble score everyday love less day love yes get heartache number love not win day stop count day world end heartache number three call say come back stay hopeful heart wait knock door wait must lose way [ chorus ],heartache number one be when you leave me i never know that i could hurt this way and heartache number two be when you come back again you come back and never mean to stay [ chorus ] now i have get heartache by the number trouble by the score everyday you love me less each day i love you more yes i have get heartache by the number a love that i can not win but the day that i stop count that be the day my world will end heartache number three be when you call me and say that you be come back to stay with hopeful heart i wait for your knock on the door i wait but you must have lose your way [ chorus ],0.35,0.115,0.9504,1,/lyric/754838/George+Jones/Heartaches+by+the+Number,['Country'],2:34,"['sad', 'yearning']",Heartaches by the Number,https://www.allmusic.com/song/heartaches-by-the-number-mt0008391599
+4,George Jones,sad,Cup of Loneliness: The?,/album/cup-of-loneliness-the-classic-mercury-years-mw0000119481,"You keep saying you love him
+I believe that it's true
+And it just doesn't matter
+How much I love you
+
+But in time you'll understand, dear
+When you shed a tear
+Then you'll know you were living
+In your tender years (tender years)
+
+In your eyes there's a love light
+That's shining for him
+But how long will it stay there?
+Will that love light grow dim?
+
+You can just see the happiness
+You can't see the tears
+It's true, 'cause you're living
+In your tender years (tender years)
+
+So if I can't be your first love
+I'll wait and be your last
+I'll be somewhere in your future
+To help you forget the past
+
+And you'll know that I love you
+With a love that's sincere
+'Cause I'll wait till you're through living
+In your tender years (tender years)
+
+Yes, you'll know that I love you
+With a love that's sincere
+Yes, I'll wait till you're through living
+In your tender years (tender years)",keep say love believe true not matter much love time understand dear shed tear know live tender year tender year eye love light shin long stay love light grow dim see happiness not see tear true ecause live tender year tender year not first love wait last somewhere future help forget past know love love sincere ecause wait till live tender year tender year yes know love love sincere yes wait till live tender year tender year,you keep say you love him i believe that it be true and it just do not matter how much i love you but in time you will understand dear when you shed a tear then you will know you be live in your tender year tender year in your eye there be a love light that be shin for him but how long will it stay there will that love light grow dim you can just see the happiness you can not see the tear it be true ecause you be live in your tender year tender year so if i can not be your first love i will wait and be your last i will be somewhere in your future to help you forget the past and you will know that i love you with a love that be sincere ecause i will wait till you be through live in your tender year tender year yes you will know that i love you with a love that be sincere yes i will wait till you be through live in your tender year tender year ,0.513,0.024,0.9962,1,/lyric/76175/George+Jones/Tender+Years,['Country'],2:22,"['bittersweet', 'melancholy', 'nocturnal', 'plaintive', 'poignant', 'reflective', 'sad', 'searching']",Tender Years,https://www.allmusic.com/song/tender-years-mt0007864626
+5,Jennifer Warnes,sad,Famous Blue Raincoat: The?,/album/famous-blue-raincoat-the-songs-of-leonard-cohen-mw0000192376,"Now the flames they followed Joan of Arc
+ as she came riding through the dark;
+ no moon to keep her armour bright,
+ no man to get her through this dark and smoky night.
+ She said, ""I'm tired of the war,
+ I want the kind of work I had before,
+ a wedding dress or something white
+ to wear upon my swollen appetite.""
+
+ Well, I'm glad to hear you talk this way,
+ you know I've watched you riding every day
+ and something in me yearns to win
+ such a cold and lonesome heroine.
+ ""And who are you?"" she sternly spoke
+ to the one beneath the smoke.
+ ""Why, I'm fire,"" he replied,
+ ""And I love your solitude, I love your pride.""
+
+ ""Well then fire, make your body cold,
+ I'm gonna give you mine to hold,""
+ saying this she climbed inside
+ to be his one, to be his only bride.
+ And deep into his fiery heart
+ he took the dust of Joan of Arc,
+ and high above all these wedding guests
+ he hung the ashes of her lovely wedding dress.
+ La...
+
+ It was deep into his fiery heart
+ he took the dust of Joan of Arc,
+ and then she clearly understood
+ if he was fire, oh she must be wood.
+ I saw her wince, I saw her cry,
+ I saw the glory in her eye.
+ Myself I long for love and light,
+ but must it come so cruel, must it be so brave?
+ La...",flame follow joan arc come rid dark no moon keep armour bright no man get dark smoky night say tired war want kind work wedding dress something white wear upon swollen appetite well glad hear talk way know watch rid every day something yearn win cold lonesome heroine sternly speak one beneath smoke fire reply love solitude love pride well fire make body cold go give mine hold say climb inside one bride deep fiery heart take dust joan arc high wedding guest hang ash lovely wedding dress la deep fiery heart take dust joan arc clearly understand fire oh must wood see wince see cry see glory eye long love light must come cruel must brave la,now the flame they follow joan of arc as she come rid through the dark no moon to keep her armour bright no man to get her through this dark and smoky night she say i be tired of the war i want the kind of work i have before a wedding dress or something white to wear upon my swollen appetite well i be glad to hear you talk this way you know i have watch you rid every day and something in me yearn to win such a cold and lonesome heroine and who be you she sternly speak to the one beneath the smoke why i be fire he reply and i love your solitude i love your pride well then fire make your body cold i be go to give you mine to hold say this she climb inside to be his one to be his only bride and deep into his fiery heart he take the dust of joan of arc and high above all these wedding guest he hang the ash of her lovely wedding dress la it be deep into his fiery heart he take the dust of joan of arc and then she clearly understand if he be fire oh she must be wood i see her wince i see her cry i see the glory in her eye myself i long for love and light but must it come so cruel must it be so brave la ,0.293,0.188,0.9643,1,/lyric/834209/Jennifer+Warnes/Joan+of+Arc,"['Pop/Rock', 'Country', 'Easy Listening']",7:57,"['cerebral', 'elegant', 'nocturnal', 'relaxed', 'smooth', 'sophisticated', 'wistful', 'sad']",Joan of Arc,https://www.allmusic.com/song/joan-of-arc-mt0005496022
+6,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"Just for a thrill
+You changed the sunshine to rain
+Just for a thrill
+You filled my heart with pain
+
+To me you were my pride and joy
+But to you, I was merely a toy
+A plaything, that you could toss around at will
+
+Just for a thrill
+You made my life one sad song
+Just for a thrill
+You just led me along
+
+Although you're free and havin' your fun
+To me you're still the only one
+Cause you made my heart stand still
+Just for a thrill
+
+Although you're free and havin' your fun
+To me you're still the only one
+Cause you made my heart stand still
+Well, it was just for a thrill
+
+And baby you, you, made my heart stand still
+Just for a thrill",thrill change sunshine rain thrill fill heart pain pride joy merely toy plaything could toss around thrill make life one sad song thrill lead along although free fun still one make heart stand still thrill although free fun still one make heart stand still well thrill baby make heart stand still thrill,just for a thrill you change the sunshine to rain just for a thrill you fill my heart with pain to me you be my pride and joy but to you i be merely a toy a plaything that you could toss around at will just for a thrill you make my life one sad song just for a thrill you just lead me along although you be free and have your fun to me you be still the only one because you make my heart stand still just for a thrill although you be free and have your fun to me you be still the only one because you make my heart stand still well it be just for a thrill and baby you you make my heart stand still just for a thrill,0.505,0.077,0.9859,1,/lyric/2822100/The+Ink+Spots/Just+for+a+Thrill,['Vocal'],2:47,"['bitter', 'dramatic', 'sad', 'weary', 'intimate', 'melancholy', 'restrained', 'delicate']",Just for a Thrill,https://www.allmusic.com/song/just-for-a-thrill-mt0007740119
+7,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"Waking skies
+At Sunrise,
+Ev'ry sunset too,
+Seems to be
+Bringing me
+Memories of you.
+
+Here and there,
+Ev'rywhere,
+Scenes that we once knew,
+And they all
+Just recall
+Memories of you.
+
+How I wish I could forget
+Those happy yesteryears
+That have left a rosary of tears.
+
+Your face beams
+In my dreams,
+Spite of all I do!
+Ev'rything
+Seems to bring
+Memories of you.
+
+How I wish I could forget
+Those happy yesteryears
+That have left a rosary of tears.
+
+Your face beams
+In my dreams,
+Spite of all I do!
+Ev'rything
+Seems to bring
+Memories,
+All those memories of you.",wake sky sunrise evry sunset seem bring memory evrywhere scene know recall memory wish could forget happy yesteryear leave rosary tear face beam dream spite evrything seem bring memory wish could forget happy yesteryear leave rosary tear face beam dream spite evrything seem bring memory memory,wake sky at sunrise evry sunset too seem to be bring me memory of you here and there evrywhere scene that we once know and they all just recall memory of you how i wish i could forget those happy yesteryear that have leave a rosary of tear your face beam in my dream spite of all i do evrything seem to bring memory of you how i wish i could forget those happy yesteryear that have leave a rosary of tear your face beam in my dream spite of all i do evrything seem to bring memory all those memory of you ,0.263,0.204,0.7003,1,/lyric/4239165/The+Ink+Spots/Memories+of+You,['Vocal'],2:59,"['bittersweet', 'melancholy', 'reflective', 'sad', 'yearning', 'delicate', 'dramatic', 'gloomy']",Memories of You,https://www.allmusic.com/song/memories-of-you-mt0007771128
+8,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"I'm making believe that you're in my arms though I know you're so far away
+Making believe I'm talking to you, wish you could hear what I say
+And here in the gloom of my lonely room we're dancing like we used to do
+Making believe is just another way of dreaming, so till my dreams come true
+
+I'll whisper ""Good night"", turn out the light, and kiss my pillow
+Making believe it's you
+I'm making believe that you're in my arms though I know you're so far away
+Making believe I'm talkin' to you, wish you could hear what I say
+
+And here in the gloom of my lonely room we're dancing like we used to do
+Making believe is just another way of dreamin', so till my dreams come true
+I'll whisper ""Good night"", turn out the light, and kiss my pillow
+Making believe it's you
+
+And here in the gloom of my lonely room we're dancing like we used to do
+Making believe is just another way of dreamin', so till my dreams come true
+I'll whisper ""Good night"", turn out the light, and kiss my pillow
+Making believe it's you",make believe arm though know far away make believe talk wish could hear say gloom lonely room dance like use making believe another way dream till dream come true whisper good night turn light kiss pillow making believe make believe arm though know far away make believe talkin wish could hear say gloom lonely room dance like use making believe another way dreamin till dream come true whisper good night turn light kiss pillow making believe gloom lonely room dance like use making believe another way dreamin till dream come true whisper good night turn light kiss pillow making believe,i be make believe that you be in my arm though i know you be so far away make believe i be talk to you wish you could hear what i say and here in the gloom of my lonely room we be dance like we use to do making believe be just another way of dream so till my dream come true i will whisper good night turn out the light and kiss my pillow making believe it be you i be make believe that you be in my arm though i know you be so far away make believe i be talkin to you wish you could hear what i say and here in the gloom of my lonely room we be dance like we use to do making believe be just another way of dreamin so till my dream come true i will whisper good night turn out the light and kiss my pillow making believe it be you and here in the gloom of my lonely room we be dance like we use to do making believe be just another way of dreamin so till my dream come true i will whisper good night turn out the light and kiss my pillow making believe it be you,0.33,0.13,0.9723,1,/lyric/1361556/Ella+Fitzgerald/I%27m+Making+Believe,['Vocal'],3:12,"['gentle', 'reserved', 'sad', 'wistful', 'yearning', 'bittersweet', 'delicate', 'dreamy']",I'm Making Believe,https://www.allmusic.com/song/im-making-believe-mt0007827727
+9,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"Alone from night to night you'll find me
+Too weak to break the chains that bind me
+I need no shackles to remind me
+I'm just a prisoner of love
+
+For one command I stand and wait now
+From one who's master of my fate now
+I can't escape for it's too late now
+I'm just a prisoner of love
+
+What's the good of my caring if someone is sharing those arms with me
+Although she has another, I can't have another for I'm not free
+
+She's in my dreams awake or sleeping
+Upon my knees to her I'm creeping
+My very life is in her keeping
+I'm just a prisoner of love
+
+What's the good of my caring if someone is sharing those arms with me
+Although she has another, I can't have another for I'm not free
+
+She's in my dreams awake or sleeping
+Upon my knees to her I'm creeping
+My very life is in her keeping
+I'm just a prisoner of love",alone night night find weak break chain bind need no shackle remind prisoner love one command stand wait one master fate not escape late prisoner love good caring someone share arm although another not another not free dream awake sleep upon knee creep life keeping prisoner love good caring someone share arm although another not another not free dream awake sleep upon knee creep life keeping prisoner love,alone from night to night you will find me too weak to break the chain that bind me i need no shackle to remind me i be just a prisoner of love for one command i stand and wait now from one who be master of my fate now i can not escape for it be too late now i be just a prisoner of love what be the good of my caring if someone be share those arm with me although she have another i can not have another for i be not free she be in my dream awake or sleep upon my knee to her i be creep my very life be in her keeping i be just a prisoner of love what be the good of my caring if someone be share those arm with me although she have another i can not have another for i be not free she be in my dream awake or sleep upon my knee to her i be creep my very life be in her keeping i be just a prisoner of love,0.345,0.237,0.9303,1,/lyric/1965602/The+Ink+Spots/Prisoner+of+Love,['Vocal'],3:01,"['dramatic', 'gloomy', 'nocturnal', 'sad', 'yearning', 'delicate', 'poignant', 'reflective']",Prisoner of Love,https://www.allmusic.com/song/prisoner-of-love-mt0009088971
+10,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"I cover the waterfront,
+I'm watching the sea,,
+Will the one I love,
+Be coming back to me?
+
+I cover the waterfront,
+In search of my love,
+And I'm covered by,
+A starless sky above.
+
+Here am I,
+Patiently waiting,
+Hoping and longing,
+Oh! How I yearn!
+Where are you?
+Are you forgetting?
+Do you remember?
+Will you return?
+
+I cover the waterfront,
+I'm watching the sea,
+For the one I love,
+Must come back to me.",cover waterfront watch sea one love come back cover waterfront search love cover starless sky patiently wait hop longing oh yearn forget remember return cover waterfront watch sea one love must come back,i cover the waterfront i be watch the sea will the one i love be come back to me i cover the waterfront in search of my love and i be cover by a starless sky above here be i patiently wait hop and longing oh how i yearn where be you be you forget do you remember will you return i cover the waterfront i be watch the sea for the one i love must come back to me ,0.289,0.069,0.9118,1,/lyric/1032563/The+Ink+Spots/I+Cover+the+Waterfront,['Vocal'],2:56,"['dramatic', 'gloomy', 'nocturnal', 'sad', 'yearning', 'delicate', 'poignant', 'reflective']",I Cover the Waterfront,https://www.allmusic.com/song/i-cover-the-waterfront-mt0007750942
+11,The Ink Spots,sad,The Anthology,/album/the-anthology-mw0000597190,"You're breaking my heart 'cause you're leaving
+You've fallen for somebody new
+It isn't too easy believing
+You'd leave after all we've been through
+It's breaking my heart to remember
+The dreams we depended upon
+You're leaving a slow dying ember
+I'll miss you, my love, when you're gone
+I wish you joy, though teardrops burn
+But if some day you should want to return
+Please hurry back and we'll make a new start, dear
+Till then you're breaking my heart
+
+I wish you joy, though teardrops burn
+But if some day you should want to return
+Please hurry back and we'll make a new start, dear
+Till then you're breaking my heart",break heart ecause leave fall somebody new not easy believe would leave break heart remember dream depend upon leave slow die ember miss love go wish joy though teardrop burn day want return please hurry back make new start dear till break heart wish joy though teardrop burn day want return please hurry back make new start dear till break heart,you be break my heart ecause you be leave you have fall for somebody new it be not too easy believe you would leave after all we have be through it be break my heart to remember the dream we depend upon you be leave a slow die ember i will miss you my love when you be go i wish you joy though teardrop burn but if some day you should want to return please hurry back and we will make a new start dear till then you be break my heart i wish you joy though teardrop burn but if some day you should want to return please hurry back and we will make a new start dear till then you be break my heart,0.367,0.134,0.9643,1,/lyric/4154064/The+Ink+Spots/You%27re+Breaking+My+Heart+All+Over+Again,['Vocal'],2:54,"['delicate', 'dramatic', 'sad', 'gentle', 'intimate', 'plaintive', 'soft/quiet', 'earnest']",You're Breaking My Heart,https://www.allmusic.com/song/youre-breaking-my-heart-mt0007745917
+12,Billie Holiday,sad,The Commodore Master Takes,/album/the-commodore-master-takes-mw0000256638,"Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+Then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+For then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterday",yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday,yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love for then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday,0.486,0.113,0.9917,1,/lyric/1124160/Billie+Holiday/Yesterdays,"['Jazz', 'Blues', 'Vocal']",3:26,"['brooding', 'reflective', 'wistful', 'melancholy', 'sad', 'weary', 'yearning', 'bittersweet']",Yesterdays,https://www.allmusic.com/song/yesterdays-mt0003497945
+13,Billie Holiday,sad,The Commodore Master Takes,/album/the-commodore-master-takes-mw0000256638,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",3:18,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0004059102
+14,Billie Holiday,sad,The Commodore Master Takes,/album/the-commodore-master-takes-mw0000256638,"I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+A certain man in this little town
+Keeps draggin' my poor heart around
+All I see for me is misery
+
+I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+I gotta right to sing the blues
+I gotta right to moan and cry
+I gotta right to sit and sigh
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+There's nothing left for me
+I'm full of misery
+I gotta right to sing the blues",get right sing blue get right moan inside get right sit cry around river certain man little town keep draggin poor heart around see misery get right sing blue get right moan inside get right sit cry around river soon deep blue sea callin must love say choose get right sing blue get right sing blue get right moan cry get right sit sigh around river soon deep blue sea callin must love say choose get right sing blue nothing leave full misery get right sing blue,i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river a certain man in this little town keep draggin my poor heart around all i see for me be misery i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue i get to right to sing the blue i get to right to moan and cry i get to right to sit and sigh down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue there be nothing leave for me i be full of misery i get to right to sing the blue,0.116,0.223,-0.8968,0,/lyric/1155940/Billie+Holiday/I+Gotta+Right+to+Sing+the+Blues,"['Jazz', 'Blues', 'Vocal']",2:56,"['bitter', 'melancholy', 'wistful', 'elegant', 'freewheeling', 'sad', 'brooding', 'gentle']",I Gotta Right to Sing the Blues,https://www.allmusic.com/song/i-gotta-right-to-sing-the-blues-mt0005348746
+15,Billie Holiday,sad,The Complete Commodore &?,/album/the-complete-commodore-decca-masters-mw0001788521,"Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+Then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+For then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterday",yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday,yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love for then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday,0.486,0.113,0.9917,1,/lyric/1124160/Billie+Holiday/Yesterdays,"['Jazz', 'Blues', 'Vocal']",3:27,"['brooding', 'reflective', 'wistful', 'melancholy', 'sad', 'weary', 'yearning', 'bittersweet']",Yesterdays,https://www.allmusic.com/song/yesterdays-mt0020364267
+16,Billie Holiday,sad,The Complete Commodore &?,/album/the-complete-commodore-decca-masters-mw0001788521,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",3:19,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0020375232
+17,Billie Holiday,sad,The Complete Commodore &?,/album/the-complete-commodore-decca-masters-mw0001788521,"I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+A certain man in this little town
+Keeps draggin' my poor heart around
+All I see for me is misery
+
+I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+I gotta right to sing the blues
+I gotta right to moan and cry
+I gotta right to sit and sigh
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+There's nothing left for me
+I'm full of misery
+I gotta right to sing the blues",get right sing blue get right moan inside get right sit cry around river certain man little town keep draggin poor heart around see misery get right sing blue get right moan inside get right sit cry around river soon deep blue sea callin must love say choose get right sing blue get right sing blue get right moan cry get right sit sigh around river soon deep blue sea callin must love say choose get right sing blue nothing leave full misery get right sing blue,i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river a certain man in this little town keep draggin my poor heart around all i see for me be misery i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue i get to right to sing the blue i get to right to moan and cry i get to right to sit and sigh down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue there be nothing leave for me i be full of misery i get to right to sing the blue,0.116,0.223,-0.8968,0,/lyric/1155940/Billie+Holiday/I+Gotta+Right+to+Sing+the+Blues,"['Jazz', 'Blues', 'Vocal']",2:51,"['bitter', 'melancholy', 'wistful', 'elegant', 'freewheeling', 'sad', 'brooding', 'gentle']",I Gotta Right to Sing the Blues,https://www.allmusic.com/song/i-gotta-right-to-sing-the-blues-mt0026206949
+18,Billie Holiday,sad,The Complete Commodore &?,/album/the-complete-commodore-decca-masters-mw0001788521,"Good morning heartache
+You old gloomy sight
+Good morning heartache
+Thought we said goodbye last night
+I turned and tossed until
+It seems you we have gone
+But here you are with the dawn
+
+Wish I forget you
+But you're here to stay
+It seems I met you
+When my love went away
+Now everyday I stop I'm saying to you
+Good morning heartache what's new
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down",good morning heartache old gloomy sight good morning heartache think say goodbye last night turn toss seem go dawn wish forget stay seem meet love go away everyday stop say good morning heartache new stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit,good morning heartache you old gloomy sight good morning heartache think we say goodbye last night i turn and toss until it seem you we have go but here you be with the dawn wish i forget you but you be here to stay it seem i meet you when my love go away now everyday i stop i be say to you good morning heartache what be new stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down,0.361,0.139,0.9799,1,/lyric/265421/Billie+Holiday/Good+Morning+Heartache,"['Jazz', 'Vocal']",3:08,"['brooding', 'gentle', 'gloomy', 'plaintive', 'sad', 'weary', 'dramatic', 'relaxed']",Good Morning Heartache,https://www.allmusic.com/song/good-morning-heartache-mt0020366664
+19,Billie Holiday,sad,Strange Fruit [Universal?,/album/strange-fruit-universal-japan-mw0002317001,"Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+Then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+For then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterday",yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday,yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love for then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday,0.486,0.113,0.9917,1,/lyric/1124160/Billie+Holiday/Yesterdays,"['Jazz', 'Blues', 'Vocal']",3:25,"['brooding', 'reflective', 'wistful', 'melancholy', 'sad', 'weary', 'yearning', 'bittersweet']",Yesterdays,https://www.allmusic.com/song/yesterdays-mt0018446296
+20,Billie Holiday,sad,Strange Fruit [Universal?,/album/strange-fruit-universal-japan-mw0002317001,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",3:16,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0018469625
+21,Billie Holiday,sad,Strange Fruit [Universal?,/album/strange-fruit-universal-japan-mw0002317001,"I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+A certain man in this little town
+Keeps draggin' my poor heart around
+All I see for me is misery
+
+I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+I gotta right to sing the blues
+I gotta right to moan and cry
+I gotta right to sit and sigh
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+There's nothing left for me
+I'm full of misery
+I gotta right to sing the blues",get right sing blue get right moan inside get right sit cry around river certain man little town keep draggin poor heart around see misery get right sing blue get right moan inside get right sit cry around river soon deep blue sea callin must love say choose get right sing blue get right sing blue get right moan cry get right sit sigh around river soon deep blue sea callin must love say choose get right sing blue nothing leave full misery get right sing blue,i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river a certain man in this little town keep draggin my poor heart around all i see for me be misery i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue i get to right to sing the blue i get to right to moan and cry i get to right to sit and sigh down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue there be nothing leave for me i be full of misery i get to right to sing the blue,0.116,0.223,-0.8968,0,/lyric/1155940/Billie+Holiday/I+Gotta+Right+to+Sing+the+Blues,"['Jazz', 'Blues', 'Vocal']",2:52,"['bitter', 'melancholy', 'wistful', 'elegant', 'freewheeling', 'sad', 'brooding', 'gentle']",I Gotta Right to Sing the Blues,https://www.allmusic.com/song/i-gotta-right-to-sing-the-blues-mt0029700336
+22,Jimmie Rodgers,sad,The Early Years 1928-1929,/album/the-early-years-1928-1929-mw0000309894,"Listen while you read
+I am dreaming tonight of an old Southern town
+And the best friend that I ever had
+For I've grown so weary of roaming around
+I'm going back home to my dad
+
+Your hair has turned to silver
+I know you're fading too
+Daddy, dear ol' Daddy
+I'm coming back to you
+
+You made my boyhood happy
+But still I longed to roam
+I've had my way, but now I'll say
+I long for you and for home
+
+Dear ol' Daddy, you shared my sorrows and joy
+You tried to bring me up right
+I know you'll still be just one of the boys
+So I'm starting back home tonight
+
+Your hair has turned to silver
+I know you're fading too
+Daddy, dear ol' Daddy
+I'm coming back to you
+
+You made my boyhood happy
+But still I longed to roam
+I've had my way, but now I'll say
+I long for you and for home
+
+Daddy",listen read dream tonight old southern town good friend ever grow weary roam around go back home dad hair turn silver know fade daddy dear old daddy come back make boyhood happy still long roam way say long home dear old daddy share sorrow joy try bring right know still one boy start back home tonight hair turn silver know fade daddy dear old daddy come back make boyhood happy still long roam way say long home daddy,listen while you read i be dream tonight of an old southern town and the good friend that i ever have for i have grow so weary of roam around i be go back home to my dad your hair have turn to silver i know you be fade too daddy dear old daddy i be come back to you you make my boyhood happy but still i long to roam i have have my way but now i will say i long for you and for home dear old daddy you share my sorrow and joy you try to bring me up right i know you will still be just one of the boy so i be start back home tonight your hair have turn to silver i know you be fade too daddy dear old daddy i be come back to you you make my boyhood happy but still i long to roam i have have my way but now i will say i long for you and for home daddy,0.291,0.055,0.9712,1,/lyric/1067381/Jimmie+Rodgers/Daddy+and+Home,['Country'],2:55,"['rustic', 'earnest', 'melancholy', 'organic', 'sentimental', 'passionate', 'reflective', 'sad']",Daddy and Home,https://www.allmusic.com/song/daddy-and-home-mt0031922492
+23,George Jones,sad,Anniversary: Ten Years of?,/album/anniversary-ten-years-of-hits-mw0000190520,"Take me, take me to your darkest room
+Close every window and bolt every door
+The very first moment I heard your voice
+I'd be in darkness no more
+
+Take me to your most barren desert
+A thousand miles from the nearest sea
+The very moment I saw your smile
+It would be like heaven to me
+
+There's not any mountain to rugged to climb
+No desert too barren to cross
+Darlin', if you would just show a sign
+Of love, I could bear with all loss
+
+Take me to Siberia
+And the coldest weather of the winter time
+And it would be just like spring in California
+As long as I knew you were mine
+
+Yes, it would be just like spring in California
+As long as I knew you were mine
+
+Take me, take me",take take dark room close every window bolt every door first moment hear voice would darkness no take barren desert thousand mile near sea moment see smile would like heaven not mountain rugged climb no desert barren cross darlin would show sign love could bear loss take siberia cold weather winter time would like spring california long know mine yes would like spring california long know mine take take,take me take me to your dark room close every window and bolt every door the very first moment i hear your voice i would be in darkness no more take me to your most barren desert a thousand mile from the near sea the very moment i see your smile it would be like heaven to me there be not any mountain to rugged to climb no desert too barren to cross darlin if you would just show a sign of love i could bear with all loss take me to siberia and the cold weather of the winter time and it would be just like spring in california as long as i know you be mine yes it would be just like spring in california as long as i know you be mine take me take me,0.232,0.1,0.91,1,/lyric/35314153/George+Jones/Bartender%27s+Blues,['Country'],3:45,"['earthy', 'intimate', 'melancholy', 'plaintive', 'reflective', 'romantic', 'sad', 'somber']",Bartender's Blues,https://www.allmusic.com/song/bartenders-blues-mt0000356777
+24,George Jones,sad,Anniversary: Ten Years of?,/album/anniversary-ten-years-of-hits-mw0000190520,"I've heard the sound of my dear old momma crying
+And the sound of the train that took me off to war
+And the awful sound of a thousand bombs exploding
+And I wondered if I could take it anymore
+
+There were times when they almost drove me crazy
+But I did my best, I took it like a man
+But who would think in my lonely room I'd hear it
+The one sound in the world my heart can't stand
+
+To hear that sound and to know its really over
+Through tear-stained eyes I watched her walk away
+And of earthquakes, storms and guns and wars
+Lord, nothing has ever hurt me more than that lonely sound
+The closing of the door
+
+And of earthquakes, storms and guns and wars
+Lord nothing has ever hurt me more than that lonely sound
+The closing of the door",hear sound dear old momma cry sound train take war awful sound thousand bomb explode wonder could take anymore time almost drive crazy good take like man would think lonely room would hear one sound world heart not stand hear sound know really tear stain eye watch walk away earthquake storm gun war lord nothing ever hurt lonely sound closing door earthquake storm gun war lord nothing ever hurt lonely sound closing door,i have hear the sound of my dear old momma cry and the sound of the train that take me off to war and the awful sound of a thousand bomb explode and i wonder if i could take it anymore there be time when they almost drive me crazy but i do my good i take it like a man but who would think in my lonely room i would hear it the one sound in the world my heart can not stand to hear that sound and to know its really over through tear stain eye i watch her walk away and of earthquake storm and gun and war lord nothing have ever hurt me more than that lonely sound the closing of the door and of earthquake storm and gun and war lord nothing have ever hurt me more than that lonely sound the closing of the door,0.127,0.338,-0.9688,0,/lyric/712120/George+Jones/The+Door,['Country'],2:42,"['earthy', 'intimate', 'melancholy', 'plaintive', 'reflective', 'romantic', 'sad', 'somber']",The Door,https://www.allmusic.com/song/the-door-mt0004575271
+25,George Jones,sad,Anniversary: Ten Years of?,/album/anniversary-ten-years-of-hits-mw0000190520,"Has it been a year since the last time I've seen her
+My God I could swear it was ten
+And the ocean of liquor I drank to forget her
+Is gonna kill me but I'll drink till then
+
+I've been livin' in hell with a bar for a cell
+Still payin' for my cheatin' crime
+Oh, and I got a long way to go, still doin' time
+
+Still doin' time in a honky tonk prison
+Still doin' time, where a man ain't forgiven
+My poor heart is breakin' but there's no escapin'
+Each morning I wake up and I find
+Still doin' time
+
+Oh, when you're caught cheatin' twice it's twenty to life
+In a place where the sun never shines
+And tomorrow you're gonna find me right here
+Still doin' time
+
+Still doin' time in a honky tonk prison
+Still doin' time, where a man ain't forgiven
+My poor heart is breakin' but there's no escapin'
+Each morning I wake up and I find,
+Still doin' time
+Still doin' time",year since last time see god could swear ten ocean liquor drink forget go kill drink till livin hell bar cell still payin cheatin crime oh get long way go still time still time honky tonk prison still time man not forgive poor heart breakin no escapin morning wake find still time oh catch cheatin twice twenty life place sun never shin tomorrow go find right still time still time honky tonk prison still time man not forgive poor heart breakin no escapin morning wake find still time still time,have it be a year since the last time i have see her my god i could swear it be ten and the ocean of liquor i drink to forget her be go to kill me but i will drink till then i have be livin in hell with a bar for a cell still payin for my cheatin crime oh and i get a long way to go still do time still do time in a honky tonk prison still do time where a man as not forgive my poor heart be breakin but there be no escapin each morning i wake up and i find still do time oh when you be catch cheatin twice it be twenty to life in a place where the sun never shin and tomorrow you be go to find me right here still do time still do time in a honky tonk prison still do time where a man as not forgive my poor heart be breakin but there be no escapin each morning i wake up and i find still do time still do time,0.063,0.268,-0.9695,0,/lyric/327967/George+Jones/Still+Doin%27+Time,['Country'],2:50,"['earthy', 'intimate', 'melancholy', 'plaintive', 'reflective', 'romantic', 'sad', 'somber']",Still Doin' Time,https://www.allmusic.com/song/still-doin-time-mt0000494221
+26,The Go-Betweens,sad,Before Hollywood,/album/before-hollywood-mw0000690044,"stand off, a stand off
+we're off to the send-off
+you sit on the stairs
+lost in your hair
+what's that you're wearing?
+it looks like a necklace
+oh, how the stars
+shine on your face
+I won't stand
+I won't wait
+I won't stand for that
+I won't wait now I say
+another time in another room
+skin turned and held sweat
+lost in all it's feeling
+I fell in your eyes
+I fell for your eyes
+pull back the curtains
+let in the dark
+I'll lie and watch
+while your hair sparks
+I won't stand
+I won't wait
+I won't stand for that
+I won't wait now I say
+another time in another room
+another time in another room
+you told me stars would fall
+you told me ice would melt
+you told me everything!
+now and again
+a bad debt won't wait
+I won't wait ",stand stand send sit stair lose hair wear look like necklace oh star shine face not stand not wait not stand not wait say another time another room skin turn hold sweat lose feel fall eye fall eye pull back curtain let dark lie watch hair spark not stand not wait not stand not wait say another time another room another time another room tell star would fall tell ice would melt tell everything bad debt not wait not wait,stand off a stand off we be off to the send off you sit on the stair lose in your hair what be that you be wear it look like a necklace oh how the star shine on your face i will not stand i will not wait i will not stand for that i will not wait now i say another time in another room skin turn and hold sweat lose in all it be feel i fall in your eye i fall for your eye pull back the curtain let in the dark i will lie and watch while your hair spark i will not stand i will not wait i will not stand for that i will not wait now i say another time in another room another time in another room you tell me star would fall you tell me ice would melt you tell me everything now and again a bad debt will not wait i will not wait,0.049,0.127,-0.7906,0,/lyric/1996580/The+Go-Betweens/A+Bad+Debt+Follows+You,['Pop/Rock'],2:50,"['literate', 'tense/anxious', 'poignant', 'reflective', 'sad', 'somber', 'stylish', 'bittersweet']",A Bad Debt Follows You,https://www.allmusic.com/song/a-bad-debt-follows-you-mt0012482447
+27,The Go-Betweens,sad,Before Hollywood,/album/before-hollywood-mw0000690044,"I haven't heard a voice that I can trust
+and all this sweetness turns a throat to rust
+I'm standing on a quay wrapped up in mist
+the steamer's left with someone that I miss
+I'd walk a hundred miles
+sold my horse, got fired by the consul
+a testament to flags, I was hostile
+tried faith and drugs and gold
+it didn't work, I couldn't fill the hole
+I'd walk a hundred miles
+a thousand miles, a million miles
+two steps step out
+towards your door
+I'll be calling round
+two steps step out
+I'm on my way
+here I am now
+I started cutting marble in a quarry
+I worked my hands, I wasn't in a hurry
+the time I did to pass the time
+the time I did to pass the time
+I'd walk a hundred miles
+so now I'm loading wool down at the wharf
+the ships unload and then they head back north
+and every time the mist comes in
+I sit and watch the mist come in
+I'd walk a hundred miles
+a thousand miles, a million miles
+two steps step out
+towards your door
+I'll be calling round
+two steps step out
+I'm on my way
+here I am now ",not hear voice trust sweetness turn throat rust stand quay wrap mist steamer leave someone miss would walk hundred mile sell horse get fire consul testament flag hostile try faith drug gold not work could not fill hole would walk hundred mile thousand mile million mile two step step towards door call round two step step way start cut marble quarry work hand not hurry time pass time time pass time would walk hundred mile load wool wharf ship unload head back north every time mist come sit watch mist come would walk hundred mile thousand mile million mile two step step towards door call round two step step way,i have not hear a voice that i can trust and all this sweetness turn a throat to rust i be stand on a quay wrap up in mist the steamer leave with someone that i miss i would walk a hundred mile sell my horse get fire by the consul a testament to flag i be hostile try faith and drug and gold it do not work i could not fill the hole i would walk a hundred mile a thousand mile a million mile two step step out towards your door i will be call round two step step out i be on my way here i be now i start cut marble in a quarry i work my hand i be not in a hurry the time i do to pass the time the time i do to pass the time i would walk a hundred mile so now i be load wool down at the wharf the ship unload and then they head back north and every time the mist come in i sit and watch the mist come in i would walk a hundred mile a thousand mile a million mile two step step out towards your door i will be call round two step step out i be on my way here i be now,0.075,0.103,-0.1032,0,/lyric/1996581/The+Go-Betweens/Two+Steps%2C+Step+Out,['Pop/Rock'],3:20,"['literate', 'tense/anxious', 'poignant', 'reflective', 'sad', 'somber', 'stylish', 'bittersweet']","Two Steps, Step Out",https://www.allmusic.com/song/two-steps-step-out-mt0032750280
+28,The Go-Betweens,sad,Before Hollywood,/album/before-hollywood-mw0000690044,"make me last
+make me last
+through our love
+make me last
+new masquerade
+to be absorbed
+I had to act before
+now I talk
+and make me last
+make me last
+through our love
+make me last
+bring on the microphones
+hidden under stones
+record my sobs
+in baritones
+and make me last
+make me last
+through our love
+make me last
+in the new west
+the orange groves
+grow like a plague
+wherever you go
+I told the heads
+we'll show the world
+we'll film ourselves in history and chrome
+and I said that
+just not sure
+make me last
+through our love
+box office law
+simple and grand
+an endless stream
+one can draw
+the flicker of light
+piano keys
+a silent screen, a silent star
+make me last
+make me last
+through our love
+make me last
+in the new west
+the orange groves
+grow like a plague
+wherever you go
+I told the heads
+we'll show the world
+we'll film ourselves in history and chrome
+and I said that, just not sure
+what's to be done
+it's thunder town they'll do
+what they can to hold you down (x 4) ",make last make last love make last new masquerade absorb act talk make last make last love make last bring microphone hide stone record sob baritone make last make last love make last new west orange grove grow like plague wherever go tell head show world film history chrome say not sure make last love box office law simple grand endless stream one draw flicker light piano key silent screen silent star make last make last love make last new west orange grove grow like plague wherever go tell head show world film history chrome say not sure thunder town hold x,make me last make me last through our love make me last new masquerade to be absorb i have to act before now i talk and make me last make me last through our love make me last bring on the microphone hide under stone record my sob in baritone and make me last make me last through our love make me last in the new west the orange grove grow like a plague wherever you go i tell the head we will show the world we will film ourselves in history and chrome and i say that just not sure make me last through our love box office law simple and grand an endless stream one can draw the flicker of light piano key a silent screen a silent star make me last make me last through our love make me last in the new west the orange grove grow like a plague wherever you go i tell the head we will show the world we will film ourselves in history and chrome and i say that just not sure what be to be do it be thunder town they will do what they can to hold you down x ,0.231,0.061,0.976,1,/lyric/1996582/The+Go-Betweens/Before+Hollywood,['Pop/Rock'],3:40,"['literate', 'tense/anxious', 'poignant', 'reflective', 'sad', 'somber', 'stylish', 'bittersweet']",Before Hollywood,https://www.allmusic.com/song/before-hollywood-mt0012475275
+29,The Go-Betweens,sad,Before Hollywood,/album/before-hollywood-mw0000690044,"like a ghost
+a ghost of something old
+it's cold and dusty in here
+just twenty years
+and six feet down I'm told
+I know your face
+I share your name
+in the dark
+when shadows have their way
+a finger's a chimney
+and the moon's on fire
+then sleep arrives
+he's got his bags and wares
+the dragon sleeps
+and St. George stares
+you won't write, no you won't write
+that's all I ask, that you just write
+and you say no, that you can't speak
+you've lost your voice, you let it go
+you let it go
+like a ghost
+a ghost of something old
+it's cold and dusty in here
+it's in your hand
+it sits just like a glove
+the finger traces the lines of love
+it's cold and dusty in here
+someone you knew
+is watching you
+I'm someone you knew ",like ghost ghost something old cold dusty twenty year six foot tell know face share name dark shadow way finger chimney moon fire sleep arrive get bag ware dragon sleep st george star not write no not write ask write say no not speak lose voice let go let go like ghost ghost something old cold dusty hand sit like glove finger trace line love cold dusty someone know watch someone know,like a ghost a ghost of something old it be cold and dusty in here just twenty year and six foot down i be tell i know your face i share your name in the dark when shadow have their way a finger a chimney and the moon on fire then sleep arrive he be get his bag and ware the dragon sleep and st george star you will not write no you will not write that be all i ask that you just write and you say no that you can not speak you have lose your voice you let it go you let it go like a ghost a ghost of something old it be cold and dusty in here it be in your hand it sit just like a glove the finger trace the line of love it be cold and dusty in here someone you know be watch you i be someone you know,0.249,0.125,0.8894,1,/lyric/1996583/The+Go-Betweens/Dusty+in+Here,['Pop/Rock'],4:05,"['literate', 'tense/anxious', 'poignant', 'reflective', 'sad', 'somber', 'stylish', 'melancholy']",Dusty in Here,https://www.allmusic.com/song/dusty-in-here-mt0012478259
+30,The Go-Betweens,sad,Before Hollywood,/album/before-hollywood-mw0000690044,"Lyrics: Robert
+Ask he said, and ask is what I did
+A tone of plea for everything you get
+And I feel too much has been made
+Of my fault, I don't call a spade
+Ask he said, ask for what you need
+Don't be shy, shyness is a little girl
+And I feel if you're scolded like a child
+All your elders, were once scolded too
+We're just
+No eyes, just ends
+We're just friends
+Shut it, shut it...
+Shut it, shut it...
+Don't shut it don't shut it don't shut it
+Don't shut it don't shut it don't shut it
+Don't you care ---- just pull in
+Ask he said, it's how you get advice
+And more than that it's talking to them
+There is magic but really there's no magic
+In what appears
+I get quiet, I feel it all the while
+No one's touched me for such a long time
+And I get wounds she bathes them in salt
+Never to open lightning with a bolt
+Ask he said, and don't ever suppose
+If you don't ask then nobody knows
+We're just
+Some eyes it's not
+Were just old friends
+Shut it, shut it...
+Shut it, shut it...
+Don't shut it don't shut it don't shut it
+Don't shut it don't shut it don't shut it
+Don't you care
+",lyric robert ask say ask tone plea everything get feel much make fault not call spade ask say ask need not shy shyness little girl feel scold like child elder scold no eye end friend shut shut shut shut not shut not shut not shut not shut not shut not shut not care pull ask say get advice talk magic really no magic appear get quiet feel no one touch long time get wound bath salt never open lightning bolt ask say not ever suppose not ask nobody know eye not old friend shut shut shut shut not shut not shut not shut not shut not shut not shut not care,lyric robert ask he say and ask be what i do a tone of plea for everything you get and i feel too much have be make of my fault i do not call a spade ask he say ask for what you need do not be shy shyness be a little girl and i feel if you be scold like a child all your elder be once scold too we be just no eye just end we be just friend shut it shut it shut it shut it do not shut it do not shut it do not shut it do not shut it do not shut it do not shut it do not you care just pull in ask he say it be how you get advice and more than that it be talk to them there be magic but really there be no magic in what appear i get quiet i feel it all the while no one touch me for such a long time and i get wound she bath them in salt never to open lightning with a bolt ask he say and do not ever suppose if you do not ask then nobody know we be just some eye it be not be just old friend shut it shut it shut it shut it do not shut it do not shut it do not shut it do not shut it do not shut it do not shut it do not you care,0.132,0.11,0.4289,1,/lyric/1996584/The+Go-Betweens/Ask,['Pop/Rock'],5:10,"['literate', 'tense/anxious', 'poignant', 'reflective', 'sad', 'somber', 'stylish', 'bittersweet']",Ask,https://www.allmusic.com/song/ask-mt0035227151
+31,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"This year's crop of kisses
+Don't seem as sweet to me
+This year's crop just misses
+What kisses used to be
+This year's new romance
+Doesn't seem to have a chance
+Even helped by Mr. Moon above
+This year's crop of kisses is not for me
+For I'm still wearin' last year's love",year crop kiss not seem sweet year crop miss kiss use year new romance not seem chance even help mr moon year crop kiss not still wearin last year love,this year crop of kiss do not seem as sweet to me this year crop just miss what kiss use to be this year new romance do not seem to have a chance even help by mr moon above this year crop of kiss be not for me for i be still wearin last year love,0.413,0.127,0.9335,1,/lyric/421981/Teddy+Wilson/This+Year%27s+Kisses,"['Vocal', 'Jazz', 'Blues']",3:10,"['elegant', 'wry', 'bittersweet', 'sad', 'wistful', 'autumnal', 'gloomy', 'melancholy']",This Year's Kisses,https://www.allmusic.com/song/this-years-kisses-mt0012746093
+32,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Why was I born
+Why am I livin'
+What do I get
+What am I givin'
+Why do I want for things
+I dare not hope for
+What can I hope for
+I wish I knew
+Why do I try
+To draw you near me
+Why do I cry
+You never hear me
+I'm a poor fool
+But what can I do
+Oh baby why was I born
+To love you",bear livin get givin want thing dare not hope hope wish know try draw near cry never hear poor fool oh baby bear love,why be i bear why be i livin what do i get what be i givin why do i want for thing i dare not hope for what can i hope for i wish i know why do i try to draw you near me why do i cry you never hear me i be a poor fool but what can i do oh baby why be i bear to love you,0.286,0.278,0.0747,1,/lyric/421982/Teddy+Wilson/Why+Was+I+Born%3F,"['Jazz', 'Vocal', 'Blues']",2:51,"['bleak', 'bitter', 'sad', 'searching', 'autumnal', 'bittersweet', 'brooding', 'earnest']",Why Was I Born?,https://www.allmusic.com/song/why-was-i-born-mt0012734887
+33,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Can't you see
+What love and romance have done to me
+I'm not the same as I used to be
+This is my last affair
+
+Tragedy just seems to be the end of me
+My happiness is misery
+This is my last affair
+
+Right from the start
+You took my love
+Tore my heart apart
+Now there's nothing new to look forward to
+My dreams won't come true
+
+So I'll make a vow, make a vow
+No more to love's line will I bow
+I cross my heart and feel it now
+This is my last affair",not see love romance not use last affair tragedy seem end happiness misery last affair right start take love tear heart apart nothing new look forward dream not come true make vow make vow no love line bow cross heart feel last affair,can not you see what love and romance have do to me i be not the same as i use to be this be my last affair tragedy just seem to be the end of me my happiness be misery this be my last affair right from the start you take my love tear my heart apart now there be nothing new to look forward to my dream will not come true so i will make a vow make a vow no more to love line will i bow i cross my heart and feel it now this be my last affair,0.087,0.399,-0.9641,0,/lyric/953732/Billie+Holiday/My+Last+Affair,"['Jazz', 'Vocal']",3:10,"['bleak', 'stylish', 'bitter', 'gloomy', 'sad', 'elegant', 'gentle', 'plaintive']",My Last Affair,https://www.allmusic.com/song/my-last-affair-mt0012736195
+34,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"How carelessly
+You gave me your heart
+And carelessly I broke it, sweetheart
+I took each tender kiss you gave to me
+Every kiss made you a slave to me
+
+Then carelessly
+I told you good-bye
+But now at night I wake up and cry
+I wish I knew a way to find the love
+I threw away so carelessly",carelessly give heart carelessly break sweetheart take tender kiss give every kiss make slave carelessly tell good bye night wake cry wish know way find love throw away carelessly,how carelessly you give me your heart and carelessly i break it sweetheart i take each tender kiss you give to me every kiss make you a slave to me then carelessly i tell you good bye but now at night i wake up and cry i wish i know a way to find the love i throw away so carelessly,0.404,0.227,0.891,1,/lyric/990030/Teddy+Wilson/Carelessly,"['Jazz', 'Vocal', 'Blues']",3:08,"['melancholy', 'plaintive', 'sad', 'gentle', 'sentimental', 'bittersweet', 'elegant', 'freewheeling']",Carelessly,https://www.allmusic.com/song/carelessly-mt0012739688
+35,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Just when romance got a start
+You decided it was time to part
+How could you?
+How could you?
+
+It was on a night like this
+You left me and didn't leave a kiss
+How could you?
+How could you?
+
+You know that love is just like apple pie
+It's either sweet or tart
+You could be the apple of my eye
+But you, you, you upset the apple cart
+
+I was looking forward to
+All those little things you didn't do
+How could you,
+Could you break my heart?",romance get start decide time part could could night like leave not leave kiss could could know love like apple pie either sweet tart could apple eye upset apple cart look forward little thing not could could break heart,just when romance get a start you decide it be time to part how could you how could you it be on a night like this you leave me and do not leave a kiss how could you how could you you know that love be just like apple pie it be either sweet or tart you could be the apple of my eye but you you you upset the apple cart i be look forward to all those little thing you do not do how could you could you break my heart ,0.297,0.138,0.8877,1,/lyric/1563614/Teddy+Wilson/How+Could+You%3F,"['Jazz', 'Vocal', 'Blues']",2:32,"['bitter', 'melancholy', 'plaintive', 'brooding', 'sad', 'warm', 'earthy', 'elegant']",How Could You?,https://www.allmusic.com/song/how-could-you-mt0034707133
+36,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"I've been around the world in a plane
+Settled revolutions in Spain
+The North Pole I have charted
+But can't get started with you
+And at the golf course I'm under par
+Metro-Goldwyn wants me to star
+I've got a house and a show place
+But can't get no place with you
+
+You're so supreme
+The lyrics I write of you
+Dream, dream, day and night of you
+Scheme just for the sight of you
+Baby but what good does it do?
+I've been consulted by Franklin D.
+Robert Taylor has had me to tea
+But now I'm broken-hearted
+Can't get started with you
+
+When first we met, how you elated me
+Pet, you devastated me
+Yet, now you've deflated me
+'Till, you're my Waterloo
+When J.P. Morgan bows I just nod
+Green Pastures wanted me to play God
+The Siamese Twins I've parted
+Can't get started with you",around world plane settle revolution spain north pole chart not get start golf course par metro goldwyn want star get house show place not get no place supreme lyric write dream dream day night scheme sight baby good consult franklin robert taylor tea break hearted not get start first meet elate pet devastate yet deflate till waterloo j p morgan bow nod green pasture want play god siamese twin part not get start,i have be around the world in a plane settle revolution in spain the north pole i have chart but can not get start with you and at the golf course i be under par metro goldwyn want me to star i have get a house and a show place but can not get no place with you you be so supreme the lyric i write of you dream dream day and night of you scheme just for the sight of you baby but what good do it do i have be consult by franklin d robert taylor have have me to tea but now i be break hearted can not get start with you when first we meet how you elate me pet you devastate me yet now you have deflate me till you be my waterloo when j p morgan bow i just nod green pasture want me to play god the siamese twin i have part can not get start with you,0.23,0.048,0.8857,1,/lyric/2276987/Billie+Holiday/I+Can%27t+Get+Started,"['Jazz', 'Blues', 'Vocal']",2:49,"['bittersweet', 'plaintive', 'yearning', 'melancholy', 'sad', 'warm', 'bitter', 'elegant']",I Can't Get Started,https://www.allmusic.com/song/i-cant-get-started-mt0012742200
+37,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Whether you are here or yonder, 
+Whether you are false or true
+Whether you remain or wander, 
+I'm growing fonder of you
+Even though your friends forsake you, 
+Even though you don't succeed
+Wouldn't I be glad to take you, 
+Give you the break you need
+
+More than you know, more than you know
+Girl of my heart, I love you so
+Lately I find you're on my mind
+More than you know
+
+Whether you're right, whether you're wrong
+Girl of my heart, I'll string along
+You need me so
+Much more than you'll ever know (ever know)        
+Loving you the way that I do      
+  
+There's nothing I can do about it        
+Loving may be all you can give        
+But baby I can't live without it
+Oh, how I'd cry, oh, how I'd cry
+If you got tired and said ""Good-bye""
+
+More than I'd show
+More than you'd ever know",whether yond whether false true whether remain wander grow fond even though friend forsake even though not succeed would not glad take give break need know know girl heart love lately find mind know whether right whether wrong girl heart str along need much ever know ever know love way nothing love may give baby not live without oh would cry oh would cry get tired say good bye would show would ever know,whether you be here or yond whether you be false or true whether you remain or wander i be grow fond of you even though your friend forsake you even though you do not succeed would not i be glad to take you give you the break you need more than you know more than you know girl of my heart i love you so lately i find you be on my mind more than you know whether you be right whether you be wrong girl of my heart i will str along you need me so much more than you will ever know ever know love you the way that i do there be nothing i can do about it love may be all you can give but baby i can not live without it oh how i would cry oh how i would cry if you get tired and say good bye more than i would show more than you would ever know,0.29,0.109,0.9607,1,/lyric/1155392/Billie+Holiday/More+Than+You+Know,"['Jazz', 'Blues', 'Vocal']",3:08,"['delicate', 'plaintive', 'soothing', 'bittersweet', 'melancholy', 'sad', 'warm', 'elegant']",More Than You Know,https://www.allmusic.com/song/more-than-you-know-mt0030236042
+38,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+Then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterdays, yesterdays
+Days I knew as happy sweet
+Sequestered days
+Olden days, golden days
+Days of mad romance and love
+
+For then gay youth was mine, truth was mine
+Joyous free in flame and life
+Then sooth was mine
+Sad am I, glad am I
+For today I'm dreamin' of yesterdays
+
+Yesterday",yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday yesterday day know happy sweet sequestered day olden day golden day day mad romance love gay youth mine truth mine joyous free flame life sooth mine sad glad today dreamin yesterday yesterday,yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday yesterday day i know as happy sweet sequestered day olden day golden day day of mad romance and love for then gay youth be mine truth be mine joyous free in flame and life then sooth be mine sad be i glad be i for today i be dreamin of yesterday yesterday,0.486,0.113,0.9917,1,/lyric/1124160/Billie+Holiday/Yesterdays,"['Jazz', 'Blues', 'Vocal']",3:23,"['brooding', 'reflective', 'wistful', 'melancholy', 'sad', 'weary', 'yearning', 'bittersweet']",Yesterdays,https://www.allmusic.com/song/yesterdays-mt0012735302
+39,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",3:15,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0028708330
+40,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+A certain man in this little town
+Keeps draggin' my poor heart around
+All I see for me is misery
+
+I gotta right to sing the blues
+I gotta right to moan inside
+I gotta right to sit and cry
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+I gotta right to sing the blues
+I gotta right to moan and cry
+I gotta right to sit and sigh
+Down around the river
+
+Soon that deep blue sea
+Will be callin' me
+It must be love say what you choose
+I gotta right to sing the blues
+
+There's nothing left for me
+I'm full of misery
+I gotta right to sing the blues",get right sing blue get right moan inside get right sit cry around river certain man little town keep draggin poor heart around see misery get right sing blue get right moan inside get right sit cry around river soon deep blue sea callin must love say choose get right sing blue get right sing blue get right moan cry get right sit sigh around river soon deep blue sea callin must love say choose get right sing blue nothing leave full misery get right sing blue,i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river a certain man in this little town keep draggin my poor heart around all i see for me be misery i get to right to sing the blue i get to right to moan inside i get to right to sit and cry down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue i get to right to sing the blue i get to right to moan and cry i get to right to sit and sigh down around the river soon that deep blue sea will be callin me it must be love say what you choose i get to right to sing the blue there be nothing leave for me i be full of misery i get to right to sing the blue,0.116,0.223,-0.8968,0,/lyric/1155940/Billie+Holiday/I+Gotta+Right+to+Sing+the+Blues,"['Jazz', 'Blues', 'Vocal']",2:51,"['bitter', 'melancholy', 'wistful', 'elegant', 'freewheeling', 'sad', 'brooding', 'gentle']",I Gotta Right to Sing the Blues,https://www.allmusic.com/song/i-gotta-right-to-sing-the-blues-mt0026632772
+41,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Some other spring
+I'll try to love
+Now I still cling
+To faded blossoms
+Fresh from worn
+Left crushed and torn
+Like the love affair I mourn
+
+Some other spring
+When twilight falls
+Will the night bring
+Another to me
+
+Not your kind
+But let me find
+It's not true that love is blind
+Sunshine's around me
+But deep in my heart
+It's cold as ice
+Love, once you've found me
+But can that story unfold twice
+
+Some other spring
+Will my heart awake
+Stirring to sing
+Love's magic music
+Then forget the old duet
+And love in some other spring
+
+Sunshine's around me
+But deep in my heart
+It's cold as ice
+Love, once you've found me
+But can that story be told twice
+
+Some other spring
+Will my heart awake
+Stirring to sing
+Love's magic music
+Then forget the old duet
+And love in some other spring",spring try love still cling fade blossom fresh worn leave crush tear like love affair mourn spring twilight fall night bring another not kind let find not true love blind sunshine around deep heart cold ice love find story unfold twice spring heart awake stir sing love magic music forget old duet love spring sunshine around deep heart cold ice love find story tell twice spring heart awake stir sing love magic music forget old duet love spring,some other spring i will try to love now i still cling to fade blossom fresh from worn leave crush and tear like the love affair i mourn some other spring when twilight fall will the night bring another to me not your kind but let me find it be not true that love be blind sunshine around me but deep in my heart it be cold as ice love once you have find me but can that story unfold twice some other spring will my heart awake stir to sing love magic music then forget the old duet and love in some other spring sunshine around me but deep in my heart it be cold as ice love once you have find me but can that story be tell twice some other spring will my heart awake stir to sing love magic music then forget the old duet and love in some other spring,0.413,0.135,0.9909,1,/lyric/1124162/Billie+Holiday/Some+Other+Spring,"['Jazz', 'Blues', 'Vocal']",3:02,"['brooding', 'dramatic', 'melancholy', 'poignant', 'angst-ridden', 'elegant', 'gentle', 'sad']",Some Other Spring,https://www.allmusic.com/song/some-other-spring-mt0012737413
+42,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"It was a morning, long before dawn
+Without a warning I found he was gone
+How could he do it
+Why should he do it
+He never done it before
+
+Am I blue
+Am I blue
+Ain't these tears, in these eyes telling you
+How can you ask me ""am I blue""
+Why, wouldn't you be too
+If each plan 
+With your man
+Done fell through
+
+There was a time
+When I was his only one
+But now I'm 
+The sad and lonely one, lonely
+
+Was I gay
+Until today
+Now he's gone, and we're through
+Am I blue",morning long dawn without warning find go could never blue blue not tear eye tell ask blue would not plan man fall time one sad lonely one lonely gay today go blue,it be a morning long before dawn without a warning i find he be go how could he do it why should he do it he never do it before be i blue be i blue as not these tear in these eye tell you how can you ask me be i blue why would not you be too if each plan with your man do fall through there be a time when i be his only one but now i be the sad and lonely one lonely be i gay until today now he be go and we be through be i blue,0.053,0.212,-0.7239,0,/lyric/1020332/Billie+Holiday/Am+I+Blue%3F,"['Blues', 'Jazz', 'Vocal']",2:51,"['anguished/distraught', 'brooding', 'gloomy', 'angst-ridden', 'dramatic', 'gentle', 'sad', 'wistful']",Am I Blue?,https://www.allmusic.com/song/am-i-blue-mt0012736651
+43,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"I'm trav'lin' light
+Because my man has gone
+So from now on
+I'm trav'lin' light
+He said goodbye
+And took my heart away
+So from today
+I'm trav'lin' light
+
+No one to see
+I'm free as the breese
+No one but me
+And my menories
+Some lucky night
+He may come back again
+So until then
+I'm trav'lin' light
+
+No one to see
+I'm free as the breese
+No one but me
+And my menories
+Some lucky night
+He may come back again
+So until then
+I'm trav'lin' light",travlin light man go travlin light say goodbye take heart away today travlin light no one see free breese no one menorie lucky night may come back travlin light no one see free breese no one menorie lucky night may come back travlin light,i be travlin light because my man have go so from now on i be travlin light he say goodbye and take my heart away so from today i be travlin light no one to see i be free as the breese no one but me and my menorie some lucky night he may come back again so until then i be travlin light no one to see i be free as the breese no one but me and my menorie some lucky night he may come back again so until then i be travlin light,0.214,0.154,0.6597,1,/lyric/64749/Billie+Holiday/Trav%27lin%27+Light,"['Jazz', 'Vocal']",3:18,"['dramatic', 'elegant', 'gloomy', 'sad', 'weary', 'yearning', 'delicate', 'gentle']",Trav'lin' Light,https://www.allmusic.com/song/travlin-light-mt0032746817
+44,Billie Holiday,sad,The Lady Sings [Proper],/album/the-lady-sings-proper-mw0000017429,"Good morning heartache
+You old gloomy sight
+Good morning heartache
+Thought we said goodbye last night
+I turned and tossed until
+It seems you we have gone
+But here you are with the dawn
+
+Wish I forget you
+But you're here to stay
+It seems I met you
+When my love went away
+Now everyday I stop I'm saying to you
+Good morning heartache what's new
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down",good morning heartache old gloomy sight good morning heartache think say goodbye last night turn toss seem go dawn wish forget stay seem meet love go away everyday stop say good morning heartache new stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit,good morning heartache you old gloomy sight good morning heartache think we say goodbye last night i turn and toss until it seem you we have go but here you be with the dawn wish i forget you but you be here to stay it seem i meet you when my love go away now everyday i stop i be say to you good morning heartache what be new stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down,0.361,0.139,0.9799,1,/lyric/265421/Billie+Holiday/Good+Morning+Heartache,"['Jazz', 'Vocal']",3:11,"['brooding', 'gentle', 'gloomy', 'plaintive', 'sad', 'weary', 'dramatic', 'relaxed']",Good Morning Heartache,https://www.allmusic.com/song/good-morning-heartache-mt0012734539
+45,The Smiths,sad,The Sound of the Smiths,/album/the-sound-of-the-smiths-mw0000799575,"Last night I dreamt
+That somebody loved me
+No hope, no harm
+Just another false alarm
+
+Last night I felt
+Real arms around me
+No hope, no harm
+Just another false alarm
+
+So, tell me how long
+Before the last one?
+And tell me how long
+Before the right one?
+
+The story is old, I know
+But it goes on
+The story is old, I know
+But it goes on
+
+Oh, goes on
+And on
+Oh, goes on
+And on",last night dream somebody love no hope no harm another false alarm last night feel real arm around no hope no harm another false alarm tell long last one tell long right one story old know go story old know go oh go oh go,last night i dream that somebody love me no hope no harm just another false alarm last night i feel real arm around me no hope no harm just another false alarm so tell me how long before the last one and tell me how long before the right one the story be old i know but it go on the story be old i know but it go on oh go on and on oh go on and on,0.183,0.314,-0.765,0,/lyric/4942666/The+Smiths/Last+Night+I+Dreamt+That+Somebody+Loved+Me,['Pop/Rock'],3:13,"['dramatic', 'melancholy', 'sad', 'intimate', 'lush', 'somber', 'yearning', 'stylish']",Last Night I Dreamt That Somebody Loved Me,https://www.allmusic.com/song/last-night-i-dreamt-that-somebody-loved-me-mt0009738490
+46,American Music Club,sad,1984-1995,/album/1984-1995-mw0000998307,"Will this night fulfill all the promises 
+And bury us in peace?
+Will it leave us free and forgetful 
+Or at least bring some sleep?
+
+Your eyes don't catch the little things 
+As they narrow on your fall 
+I'm checking your pulse 'cause you're so quiet 
+I'm kissing you, but you don't feel it 
+
+Why do you do this to me? 
+Showing me all that I'm good for 
+Is to watch you sleep as lifeless as an angel 
+She was the most beautiful cloud 
+That ever passed before the face of a girl 
+Seems like nothing's too good for this life 
+Some things are too good for this world 
+
+And our names and our faces 
+Well, they're just spare change 
+In memory of a soul 
+Kept dropping spare change 
+
+Why won't you stay
+In memory of a little girl
+Who was far too much in love with the world 
+And who didn't really want to stick around for the end?
+
+Why won't you stay?",night fulfill promise bury us peace leave us free forgetful least bring sleep eye not catch little thing narrow fall check pulse ecause quiet kiss not feel show good watch sleep lifeless angel beautiful cloud ever pass face girl seem like nothing good life thing good world name face well spare change memory soul keep drop spare change not stay memory little girl far much love world not really want stick around end not stay,will this night fulfill all the promise and bury us in peace will it leave us free and forgetful or at least bring some sleep your eye do not catch the little thing as they narrow on your fall i be check your pulse ecause you be so quiet i be kiss you but you do not feel it why do you do this to me show me all that i be good for be to watch you sleep as lifeless as an angel she be the most beautiful cloud that ever pass before the face of a girl seem like nothing too good for this life some thing be too good for this world and our name and our face well they be just spare change in memory of a soul keep drop spare change why will not you stay in memory of a little girl who be far too much in love with the world and who do not really want to stick around for the end why will not you stay ,0.273,0.14,0.9472,1,/lyric/1965547/American+Music+Club/Why+Won%27t+You+Stay,['Pop/Rock'],2:59,"['plaintive', 'sad']",Why Won't You Stay,https://www.allmusic.com/song/why-wont-you-stay-mt0013732783
+47,Merle Haggard & the?,sad,I'm a Lonesome Fugitive,/album/im-a-lonesome-fugitive-mw0000015846,"It gets longer in between each time you call
+I'd be safe in saying you no longer care at all
+We're never seem together like we used to
+Be tell me darling whatever happened to me
+
+I once played a big part in your world 
+Think back and I know you'll agree
+You still play a big part in my world
+Oh but whatever happened to me
+
+I made up my own excuses for so long
+I can't keep myself from asking what went wrong
+Please forgive me if I'm just too blind to see
+And tell me darling whatever happened to me
+
+Please forgive me if I'm just too blind to see
+And tell me darling whatever happened to me",get long time call would safe say no longer care never seem together like use tell darling whatev happen play big part world think back know agree still play big part world oh whatev happen make excuse long not keep ask go wrong please forgive blind see tell darling whatev happen please forgive blind see tell darling whatev happen,it get long in between each time you call i would be safe in say you no longer care at all we be never seem together like we use to be tell me darling whatev happen to me i once play a big part in your world think back and i know you will agree you still play a big part in my world oh but whatev happen to me i make up my own excuse for so long i can not keep myself from ask what go wrong please forgive me if i be just too blind to see and tell me darling whatev happen to me please forgive me if i be just too blind to see and tell me darling whatev happen to me,0.393,0.144,0.9642,1,/lyric/1443011/Merle+Haggard/Whatever+Happened+to+Me,['Country'],2:57,"['autumnal', 'bittersweet', 'melancholy', 'plaintive', 'poignant', 'reflective', 'sad', 'searching']",Whatever Happened to Me,https://www.allmusic.com/song/whatever-happened-to-me-mt0007422887
+48,Merle Haggard & the?,sad,I'm a Lonesome Fugitive,/album/im-a-lonesome-fugitive-mw0000015846,"I'm gonna lose myself
+Somewhere on skid row
+Since I lost you
+I just don't seem to care
+
+I'm gonna lose myself
+Somewhere on skid row
+So the wine won't let
+Your memory find me there
+
+Well, I've been everywhere
+Running both day and night
+With the pain of loving
+You right close behind
+
+And I've tried everything
+And whether I'm wrong or right
+There's just one way
+I found to ease my mind
+
+And I'm gonna lose myself
+Somewhere on skid row
+Since I lost you
+I just don't seem to care
+
+I'm gonna lose myself
+Somewhere on skid row
+So the wine won't let
+Your memory find me there",go lose somewhere skid row since lose not seem care go lose somewhere skid row wine not let memory find well everywhere run day night pain love right close behind try everything whether wrong right one way find ease mind go lose somewhere skid row since lose not seem care go lose somewhere skid row wine not let memory find,i be go to lose myself somewhere on skid row since i lose you i just do not seem to care i be go to lose myself somewhere on skid row so the wine will not let your memory find me there well i have be everywhere run both day and night with the pain of love you right close behind and i have try everything and whether i be wrong or right there be just one way i find to ease my mind and i be go to lose myself somewhere on skid row since i lose you i just do not seem to care i be go to lose myself somewhere on skid row so the wine will not let your memory find me there,0.105,0.333,-0.9521,0,/lyric/324134/Merle+Haggard/Somewhere+on+Skid+Row,['Country'],1:57,"['bittersweet', 'reflective', 'sad', 'searching', 'wistful', 'yearning', 'amiable/good-natured', 'earthy']",Skid Row,https://www.allmusic.com/song/skid-row-mt0007615918
+49,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",3:16,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0014138542
+50,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"I'm trav'lin' light
+Because my man has gone
+So from now on
+I'm trav'lin' light
+He said goodbye
+And took my heart away
+So from today
+I'm trav'lin' light
+
+No one to see
+I'm free as the breese
+No one but me
+And my menories
+Some lucky night
+He may come back again
+So until then
+I'm trav'lin' light
+
+No one to see
+I'm free as the breese
+No one but me
+And my menories
+Some lucky night
+He may come back again
+So until then
+I'm trav'lin' light",travlin light man go travlin light say goodbye take heart away today travlin light no one see free breese no one menorie lucky night may come back travlin light no one see free breese no one menorie lucky night may come back travlin light,i be travlin light because my man have go so from now on i be travlin light he say goodbye and take my heart away so from today i be travlin light no one to see i be free as the breese no one but me and my menorie some lucky night he may come back again so until then i be travlin light no one to see i be free as the breese no one but me and my menorie some lucky night he may come back again so until then i be travlin light,0.214,0.154,0.6597,1,/lyric/64749/Billie+Holiday/Trav%27lin%27+Light,"['Jazz', 'Vocal']",3:17,"['dramatic', 'elegant', 'gloomy', 'sad', 'weary', 'yearning', 'delicate', 'gentle']",Trav'lin' Light,https://www.allmusic.com/song/travlin-light-mt0014140339
+51,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"Good morning heartache
+You old gloomy sight
+Good morning heartache
+Thought we said goodbye last night
+I turned and tossed until
+It seems you we have gone
+But here you are with the dawn
+
+Wish I forget you
+But you're here to stay
+It seems I met you
+When my love went away
+Now everyday I stop I'm saying to you
+Good morning heartache what's new
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down
+
+Stop haunting me now
+Can't shake you nohow
+Just leave me alone
+I've got those Monday blues
+Straight to Sunday blues
+
+Good morning heartache
+Here we go again
+Good morning heartache
+You're the one
+Who knows me well
+Might as well get use to you
+Hanging around
+Good morning heartache
+Sit down",good morning heartache old gloomy sight good morning heartache think say goodbye last night turn toss seem go dawn wish forget stay seem meet love go away everyday stop say good morning heartache new stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit stop haunt not shake nohow leave alone get monday blue straight sunday blue good morning heartache go good morning heartache one know well may well get use hang around good morning heartache sit,good morning heartache you old gloomy sight good morning heartache think we say goodbye last night i turn and toss until it seem you we have go but here you be with the dawn wish i forget you but you be here to stay it seem i meet you when my love go away now everyday i stop i be say to you good morning heartache what be new stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down stop haunt me now can not shake you nohow just leave me alone i have get those monday blue straight to sunday blue good morning heartache here we go again good morning heartache you be the one who know me well may as well get use to you hang around good morning heartache sit down,0.361,0.139,0.9799,1,/lyric/265421/Billie+Holiday/Good+Morning+Heartache,"['Jazz', 'Vocal']",3:07,"['brooding', 'gentle', 'gloomy', 'plaintive', 'sad', 'weary', 'dramatic', 'relaxed']",Good Morning Heartache,https://www.allmusic.com/song/good-morning-heartache-mt0014135335
+52,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"Smooth road, clear day
+But why am I the only one
+Travelin' this way
+How strange the road you love
+Should be so easy
+Can there be a detour ahead
+
+Wake up, slow down
+Before you crash and break your heart
+Gullible clown
+
+You fool, you're headin'
+In the wrong direction
+Can't you see the detour ahead
+
+The further you travel
+The harder to unravel
+The way he spins around you
+Turn back while there is time
+Can't you see the danger sign
+Soft shoulders surround you
+
+Smooth road, clear night
+Oh lucky me, that suddenly
+I saw the light
+I'm turning back away
+From all this trouble
+
+Smooth road, smooth road
+No detour ahead",smooth road clear day one travelin way strange road love easy detour ahead wake slow crash break heart gullible clown fool headin wrong direction not see detour ahead travel hard unravel way spin around turn back time not see danger sign soft shoulder surround smooth road clear night oh lucky suddenly see light turn back away trouble smooth road smooth road no detour ahead,smooth road clear day but why be i the only one travelin this way how strange the road you love should be so easy can there be a detour ahead wake up slow down before you crash and break your heart gullible clown you fool you be headin in the wrong direction can not you see the detour ahead the further you travel the hard to unravel the way he spin around you turn back while there be time can not you see the danger sign soft shoulder surround you smooth road clear night oh lucky me that suddenly i see the light i be turn back away from all this trouble smooth road smooth road no detour ahead,0.205,0.221,0.1471,1,/lyric/33602329/Billie+Holiday/Detour+Ahead+%5B%2A%5D,['Jazz'],3:03,"['brooding', 'laid-back/mellow', 'ominous', 'sad']",Detour Ahead,https://www.allmusic.com/song/detour-ahead-mt0027281472
+53,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"Lady sings the blues
+She's got them bad
+She feels so sad
+Wants the world to know
+Just what the blues is all about
+
+Lady sings the blues
+She tells her side
+nothing to hide
+Now the world will now
+Just what the blues is all about
+The blues ain't nothing but a pain in your heart
+when you get a bad start
+When you and your man have to part
+I ain't gonna just sit around and cry
+And now I won't die
+Because I love him
+
+Lady sings the blues
+she's got 'em bad
+She feels so sad
+The world will know
+She's never gonna sing them no more
+
+No more",lady sing blue get bad feel sad want world know blue lady sing blue tell side nothing hide world blue blue not nothing pain heart get bad start man part not go sit around cry not die love lady sing blue get em bad feel sad world know never go sing no no,lady sing the blue she be get them bad she feel so sad want the world to know just what the blue be all about lady sing the blue she tell her side nothing to hide now the world will now just what the blue be all about the blue as not nothing but a pain in your heart when you get a bad start when you and your man have to part i as not go to just sit around and cry and now i will not die because i love him lady sing the blue she be get em bad she feel so sad the world will know she be never go to sing them no more no more,0.13,0.338,-0.9564,0,/lyric/474278/Billie+Holiday/Lady+Sings+the+Blues,"['Jazz', 'Vocal', 'Blues']",3:44,"['brooding', 'sad', 'bitter', 'dramatic', 'gloomy', 'melancholy', 'nocturnal', 'spooky']",Lady Sings the Blues,https://www.allmusic.com/song/lady-sings-the-blues-mt0014145386
+54,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"I'm a fool to want you
+I'm a fool to want you
+To want a love that can't be true
+A love that's there for others too
+
+I'm a fool to hold you
+Such a fool to hold you
+To seek a kiss not mine alone
+To share a kiss the Devil has known
+
+Time and time again I said I'd leave you
+Time and time again I went away
+But then would come the time when I would need you
+And once again these words I'll have to say
+
+I'm a fool to want you
+Pity me, I need you
+I know it's wrong, it must be wrong
+But right or wrong I can't get along
+Without you
+
+I can't get along
+Without you",fool want fool want want love not true love fool hold fool hold seek kiss not mine alone share kiss devil know time time say would leave time time go away would come time would need word say fool want pity need know wrong must wrong right wrong not get along without not get along without,i be a fool to want you i be a fool to want you to want a love that can not be true a love that be there for other too i be a fool to hold you such a fool to hold you to seek a kiss not mine alone to share a kiss the devil have know time and time again i say i would leave you time and time again i go away but then would come the time when i would need you and once again these word i will have to say i be a fool to want you pity me i need you i know it be wrong it must be wrong but right or wrong i can not get along without you i can not get along without you,0.231,0.395,-0.9421,0,/lyric/1668745/Billie+Holiday/I%27m+a+Fool+to+Want+You+%5BEdited+Master%5D,"['Vocal', 'Jazz', 'Pop/Rock']",3:24,"['brooding', 'gloomy', 'weary', 'bitter', 'bleak', 'dramatic', 'elegant', 'sad']",I'm a Fool to Want You,https://www.allmusic.com/song/im-a-fool-to-want-you-mt0026836450
+55,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"My man don't love me
+Treats me oh so mean
+My man he don't love me
+Treats me awfully
+He's the lowest man
+That I've ever see
+
+He wears high trimmed pants
+Stripes are really yellow
+He wears high trimmed pants
+Stripes are really yellow
+But when he starts in to love me
+He's so fine and mellow
+
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you drink and gamble
+Make you stay out all night long
+Love will make you do things
+That you know is wrong
+
+But if you treat me right baby
+I'll stay home everyday
+If you treat me right baby
+I'll stay home everyday
+But you're so mean to me baby
+I know you're gonna drive me away
+
+Love is just like the faucet
+It turns off and on
+Love is like the faucet
+It turns off and on
+Sometimes when you think it's on baby
+It has turned off and gone",man not love treat oh mean man not love treat awfully low man ever see wear high trim pant stripe really yellow wear high trim pant stripe really yellow start love fine mellow love make drink gamble make stay night long love make drink gamble make stay night long love make thing know wrong treat right baby stay home everyday treat right baby stay home everyday mean baby know go drive away love like faucet turn love like faucet turn sometimes think baby turn go,my man do not love me treat me oh so mean my man he do not love me treat me awfully he be the low man that i have ever see he wear high trim pant stripe be really yellow he wear high trim pant stripe be really yellow but when he start in to love me he be so fine and mellow love will make you drink and gamble make you stay out all night long love will make you drink and gamble make you stay out all night long love will make you do thing that you know be wrong but if you treat me right baby i will stay home everyday if you treat me right baby i will stay home everyday but you be so mean to me baby i know you be go to drive me away love be just like the faucet it turn off and on love be like the faucet it turn off and on sometimes when you think it be on baby it have turn off and go,0.058,0.357,-0.9869,0,/lyric/1155947/Billie+Holiday/Fine+and+Mellow,"['Blues', 'Jazz', 'Vocal']",,"['laid-back/mellow', 'nocturnal', 'bittersweet', 'intimate', 'melancholy', 'warm', 'brooding', 'sad']",Fine and Mellow,https://www.allmusic.com/song/fine-and-mellow-mt0014159792
+56,Billie Holiday,sad,The Ultimate Collection,/album/the-ultimate-collection-mw0001895549,"I hate to see that evening sun go down
+I hate to see that evening sun go down
+Cause, my baby, he's gone left this town
+Fellin' tomorrow like I feel today
+If I'm feelin' tomorrow like I feel today
+I'll pack my truck and make my give-a-way
+
+St. Louis woman with her diamond ring
+Pulls that man around by her
+If it wasn't for her and her
+That man I love would have gone nowhere, nowhere
+I got the St. Louis Blues
+Blues as I can be
+That man's got a heart like a rock cast in the sea
+Or else he wouldn't have gone so far from me
+
+I love my baby like a school boy loves his pie
+Like a Kentucky colonel loves his mint'n rye
+I love my man till the day I die",hate see evening sun go hate see evening sun go baby go leave town fellin tomorrow like feel today feelin tomorrow like feel today pack truck make give way st louis woman diamond ring pull man around not man love would go nowhere nowhere get st louis blue blue man get heart like rock cast sea else would not go far love baby like school boy love pie like kentucky colonel love mintn rye love man till day die,i hate to see that evening sun go down i hate to see that evening sun go down because my baby he be go leave this town fellin tomorrow like i feel today if i be feelin tomorrow like i feel today i will pack my truck and make my give a way st louis woman with her diamond ring pull that man around by her if it be not for her and her that man i love would have go nowhere nowhere i get the st louis blue blue as i can be that man get a heart like a rock cast in the sea or else he would not have go so far from me i love my baby like a school boy love his pie like a kentucky colonel love his mintn rye i love my man till the day i die,0.138,0.271,-0.9472,0,/lyric/1020324/Billie+Holiday/St.+Louis+Blues,"['Jazz', 'Blues']",,"['gloomy', 'melancholy', 'plaintive', 'sad', 'yearning', 'bitter', 'delicate', 'passionate']",St. Louis Blues,https://www.allmusic.com/song/st-louis-blues-mt0014140528

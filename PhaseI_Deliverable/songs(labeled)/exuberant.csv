@@ -1,0 +1,1431 @@
+,album_artist,album_mood,album_title,allmusic_href,lyrics,lyrics(normalized_no_stopwords),lyrics(normalized_with_stopwords),positive_score,negative_score,compound_score,sentiment_label,lyrics_href,track_genres,track_length,track_moods,track_title,track_url
+0,Ramones,exuberant,Road to Ruin,/album/road-to-ruin-mw0000004996,"I heard about the Ester bunny
+Presents under a Christmas tree
+It was dreaming and fantasy
+There was no Mom or Daddy
+
+I wanted everything
+I wanted everything
+I wanted everything
+
+I had the world on my shoulder
+But I was getting older
+Knew I was ready for it
+Some kind of envelopment
+
+I wanted everything
+I wanted everything
+I wanted everything
+
+All day working on a truck
+Bringing the groceries up
+Not much of a salary
+No tip for the delivery
+
+I wanted everything
+I wanted everything
+I wanted everything
+
+There's no success for me
+Involved in a robbery
+There's money in the supermarket
+And I'm goin' after it
+
+I wanted everything
+I wanted everything
+I wanted everything
+
+I wanted everything
+I wanted everything
+(7x)",hear ester bunny present christmas tree dream fantasy no mom daddy want everything want everything want everything world shoulder get old know ready kind envelopment want everything want everything want everything day work truck bring grocery not much salary no tip delivery want everything want everything want everything no success involve robbery money supermarket go want everything want everything want everything want everything want everything x,i hear about the ester bunny present under a christmas tree it be dream and fantasy there be no mom or daddy i want everything i want everything i want everything i have the world on my shoulder but i be get old know i be ready for it some kind of envelopment i want everything i want everything i want everything all day work on a truck bring the grocery up not much of a salary no tip for the delivery i want everything i want everything i want everything there be no success for me involve in a robbery there be money in the supermarket and i be go after it i want everything i want everything i want everything i want everything i want everything x ,0.371,0.082,0.9042,1,/lyric/2731593/Ramones/I+Wanted+Everything,['Pop/Rock'],3:18,"['boisterous', 'energetic', 'exuberant', 'irreverent', 'reckless', 'swaggering', 'celebratory', 'playful']",I Wanted Everything,https://www.allmusic.com/song/i-wanted-everything-mt0011405667
+1,Ramones,exuberant,Road to Ruin,/album/road-to-ruin-mw0000004996,"Twenty twenty twenty four hours to go
+I wanna be sedated
+Nothing to do, no where to go o,
+I wanna be sedated
+
+Just get me to the airport, put me on a plane
+Hurry hurry hurry, before I go insane
+I can't control my fingers, I can't control my brain
+Oh no oh oh oh oh
+
+Twenty twenty twenty four hours to go
+I wanna be sedated
+Nothing to do, no where to go o,
+I wanna be sedated
+
+Just put me in a wheelchair, get me on a plane
+Hurry hurry hurry, before I go insane
+I can't control my fingers, I can't control my brain
+Oh no oh oh oh oh
+
+Twenty twenty twenty four hours to go
+I wanna be sedated
+Nothing to do, no where to go o,
+I wanna be sedated
+
+Just put me in a wheelchair, get me to the show
+Hurry hurry hurry, before I go loco
+I can't control my fingers, I can't control my toes
+Oh no oh oh oh oh
+
+Twenty twenty twenty four hours to go
+I wanna be sedated
+Nothing to do, no where to go o,
+I wanna be sedated
+
+Just put me in a wheelchair, get me to the show
+Hurry hurry hurry, before I go loco
+I can't control my fingers, I can't control my toes
+Oh no oh oh oh oh
+
+Ba ba baba, baba ba baba, I wanna be sedated
+Ba ba baba, baba ba baba, I wanna be sedated
+Ba ba baba, baba ba baba, I wanna be sedated
+Ba ba baba, baba ba baba, I wanna be sedated",twenty twenty twenty four hour go wanna sedate nothing no go wanna sedate get airport put plane hurry hurry hurry go insane not control finger not control brain oh no oh oh oh oh twenty twenty twenty four hour go wanna sedate nothing no go wanna sedate put wheelchair get plane hurry hurry hurry go insane not control finger not control brain oh no oh oh oh oh twenty twenty twenty four hour go wanna sedate nothing no go wanna sedate put wheelchair get show hurry hurry hurry go loco not control finger not control toe oh no oh oh oh oh twenty twenty twenty four hour go wanna sedate nothing no go wanna sedate put wheelchair get show hurry hurry hurry go loco not control finger not control toe oh no oh oh oh oh ba ba baba baba ba baba wanna sedate ba ba baba baba ba baba wanna sedate ba ba baba baba ba baba wanna sedate ba ba baba baba ba baba wanna sedate,twenty twenty twenty four hour to go i wanna be sedate nothing to do no where to go o i wanna be sedate just get me to the airport put me on a plane hurry hurry hurry before i go insane i can not control my finger i can not control my brain oh no oh oh oh oh twenty twenty twenty four hour to go i wanna be sedate nothing to do no where to go o i wanna be sedate just put me in a wheelchair get me on a plane hurry hurry hurry before i go insane i can not control my finger i can not control my brain oh no oh oh oh oh twenty twenty twenty four hour to go i wanna be sedate nothing to do no where to go o i wanna be sedate just put me in a wheelchair get me to the show hurry hurry hurry before i go loco i can not control my finger i can not control my toe oh no oh oh oh oh twenty twenty twenty four hour to go i wanna be sedate nothing to do no where to go o i wanna be sedate just put me in a wheelchair get me to the show hurry hurry hurry before i go loco i can not control my finger i can not control my toe oh no oh oh oh oh ba ba baba baba ba baba i wanna be sedate ba ba baba baba ba baba i wanna be sedate ba ba baba baba ba baba i wanna be sedate ba ba baba baba ba baba i wanna be sedate,0.085,0.03,0.6912,1,/lyric/889760/Ramones/I+Wanna+Be+Sedated,"['Pop/Rock', 'Electronic']",2:29,"['boisterous', 'energetic', 'exuberant', 'irreverent', 'swaggering', 'celebratory', 'reckless', 'playful']",I Wanna Be Sedated,https://www.allmusic.com/song/i-wanna-be-sedated-mt0011397129
+2,Ramones,exuberant,Road to Ruin,/album/road-to-ruin-mw0000004996,"I used to be an A student
+I never used to complain
+I used to be a truant
+But I'm still the same
+
+Bad bad brain
+Bad bad brain
+
+I used to go to parties
+I used to drink champagne
+Now I'm beginning to feel the strain
+
+Bad bad brain
+Bad bad brain
+
+I used to be in show biz
+I used to have fortune and fame
+I used to have pleasure and pain
+I used to have a name
+
+Bad bad brain
+Bad bad brain
+
+Now I'm on the Bowery
+I can't remember my name
+
+Bad bad brain
+Bad bad brain",use student never use complain use truant still bad bad brain bad bad brain use go party use drink champagne begin feel strain bad bad brain bad bad brain use show biz use fortune fame use pleasure pain use name bad bad brain bad bad brain bowery not remember name bad bad brain bad bad brain,i use to be an a student i never use to complain i use to be a truant but i be still the same bad bad brain bad bad brain i use to go to party i use to drink champagne now i be begin to feel the strain bad bad brain bad bad brain i use to be in show biz i use to have fortune and fame i use to have pleasure and pain i use to have a name bad bad brain bad bad brain now i be on the bowery i can not remember my name bad bad brain bad bad brain,0.127,0.565,-0.9935,0,/lyric/2731602/Ramones/Bad+Brain,['Pop/Rock'],2:25,"['boisterous', 'energetic', 'exuberant', 'irreverent', 'reckless', 'swaggering', 'celebratory', 'playful']",Bad Brain,https://www.allmusic.com/song/bad-brain-mt0011378886
+3,Ramones,exuberant,Road to Ruin,/album/road-to-ruin-mw0000004996,"You by the phone
+Are you all alone?
+It's a long way back to Germany
+It's a long way back to Germany",phone alone long way back germany long way back germany,you by the phone be you all alone it be a long way back to germany it be a long way back to germany,0.0,0.182,-0.25,0,/lyric/2731603/Ramones/It%27s+a+Long+Way+Back,['Pop/Rock'],2:20,"['boisterous', 'energetic', 'exuberant', 'irreverent', 'reckless', 'swaggering', 'celebratory', 'playful']",It's a Long Way Back,https://www.allmusic.com/song/its-a-long-way-back-mt0033331942
+4,Tina Turner,exuberant,Private Dancer,/album/private-dancer-mw0000196120,"Let me say since, babe
+Since we've been together
+Ooo loving you forever
+Is all I need
+Let me be the one you come running to
+I'll never be untrue, oh baby
+
+Let's, let's stay together
+Loving you whether, whether
+Times are good or bad, happy or sad
+
+I'm so in love with you
+Whatever you want to do
+Is alright with me
+Let me be the one you come running to
+I'll never be untrue, oh baby
+
+Let's, let's stay together
+Loving you whether, whether
+Times are good or bad, happy or sad
+
+Why, oh tell me, why do people break up
+Oh then turn around and make up
+I just came to see
+You'd never do that to me, would you baby?
+'Cause being around you is all I see
+
+So baby, let's, we oughta together
+Loving you whether, whether
+Times are good or bad, happy or sad
+
+Let's, ooo, stay together
+Loving you whether, whether
+Times are good or bad, happy or sad",let say since babe since together ooo love forever need let one come run never untrue oh baby let us let us stay together love whether whether time good bad happy sad love whatev want alright let one come run never untrue oh baby let us let us stay together love whether whether time good bad happy sad oh tell people break oh turn around make come see would never would baby ecause around see baby let us oughta together love whether whether time good bad happy sad let us ooo stay together love whether whether time good bad happy sad,let me say since babe since we have be together ooo love you forever be all i need let me be the one you come run to i will never be untrue oh baby let us let us stay together love you whether whether time be good or bad happy or sad i be so in love with you whatev you want to do be alright with me let me be the one you come run to i will never be untrue oh baby let us let us stay together love you whether whether time be good or bad happy or sad why oh tell me why do people break up oh then turn around and make up i just come to see you would never do that to me would you baby ecause be around you be all i see so baby let us we oughta together love you whether whether time be good or bad happy or sad let us ooo stay together love you whether whether time be good or bad happy or sad,0.347,0.167,0.9826,1,/lyric/1288689/Tina+Turner/Let%27s+Stay+Together,"['Pop/Rock', 'R&B;']",5:16,"['amiable/good-natured', 'bright', 'calm/peaceful', 'confident', 'dreamy', 'earnest', 'elaborate', 'exuberant']",Let's Stay Together,https://www.allmusic.com/song/lets-stay-together-mt0008569829
+5,Tina Turner,exuberant,Private Dancer,/album/private-dancer-mw0000196120,"A prisoner of your love
+Entangled in your web
+Hot whispers in the night
+I'm captured by your spell
+Oh yes I'm touched by this show of emotion
+Should I be fractured by your lack of devotion
+Should i, should i?
+
+You better be good to me
+That's how it's gotta be now
+Cause I don't have no use
+For what you losely call the truth
+You better be good to me
+
+I think it's also right
+That we don't need to fight
+We stand face to face
+And you present your case
+And I know you keep telling me that you love me
+And I really do wanna believe
+But did you think I'd just accept you in blind faith
+Oh sure babe, anything to please you
+
+You better be good to me
+That's how it's gotta be now
+Cause I don't have the time
+For your over loaded lines
+You better be good to me
+
+And I really don't see why it's so hard to be good to me
+And I don't understand what's your plan that you can't be good to me
+What I can't feel I surely cannot see, why can't you be good to me
+And if it's not real I do not wish to see, why can't you be good to me",prisoner love entangle web hot whisper night capture spell oh yes touch show emotion fracture lack devotion better good get not no use losely call truth better good think also right not need fight stand face face present case know keep tell love really wanna believe think would accept blind faith oh sure babe anything please better good get not time load line better good really not see hard good not understand plan not good not feel surely not see not good not real not wish see not good,a prisoner of your love entangle in your web hot whisper in the night i be capture by your spell oh yes i be touch by this show of emotion should i be fracture by your lack of devotion should i should i you better be good to me that be how it be get to be now because i do not have no use for what you losely call the truth you better be good to me i think it be also right that we do not need to fight we stand face to face and you present your case and i know you keep tell me that you love me and i really do wanna believe but do you think i would just accept you in blind faith oh sure babe anything to please you you better be good to me that be how it be get to be now because i do not have the time for your over load line you better be good to me and i really do not see why it be so hard to be good to me and i do not understand what be your plan that you can not be good to me what i can not feel i surely can not see why can not you be good to me and if it be not real i do not wish to see why can not you be good to me,0.492,0.078,0.9945,1,/lyric/3427172/Tina+Turner/Better+Be+Good+to+Me+%5BExtended+Version%5D+%5B%2A%5D,"['Pop/Rock', 'R&B;']",5:12,"['amiable/good-natured', 'bravado', 'bright', 'brooding', 'confident', 'earnest', 'exuberant', 'gutsy']",Better Be Good to Me,https://www.allmusic.com/song/better-be-good-to-me-mt0004946963
+6,Tina Turner,exuberant,Private Dancer,/album/private-dancer-mw0000196120,"A prisoner of your love
+Entangled in your web
+Hot whispers in the night
+I'm captured by your spell
+Oh yes I'm touched by this show of emotion
+Should I be fractured by your lack of devotion
+Should i, should i?
+
+You better be good to me
+That's how it's gotta be now
+Cause I don't have no use
+For what you losely call the truth
+You better be good to me
+
+I think it's also right
+That we don't need to fight
+We stand face to face
+And you present your case
+And I know you keep telling me that you love me
+And I really do wanna believe
+But did you think I'd just accept you in blind faith
+Oh sure babe, anything to please you
+
+You better be good to me
+That's how it's gotta be now
+Cause I don't have the time
+For your over loaded lines
+You better be good to me
+
+And I really don't see why it's so hard to be good to me
+And I don't understand what's your plan that you can't be good to me
+What I can't feel I surely cannot see, why can't you be good to me
+And if it's not real I do not wish to see, why can't you be good to me",prisoner love entangle web hot whisper night capture spell oh yes touch show emotion fracture lack devotion better good get not no use losely call truth better good think also right not need fight stand face face present case know keep tell love really wanna believe think would accept blind faith oh sure babe anything please better good get not time load line better good really not see hard good not understand plan not good not feel surely not see not good not real not wish see not good,a prisoner of your love entangle in your web hot whisper in the night i be capture by your spell oh yes i be touch by this show of emotion should i be fracture by your lack of devotion should i should i you better be good to me that be how it be get to be now because i do not have no use for what you losely call the truth you better be good to me i think it be also right that we do not need to fight we stand face to face and you present your case and i know you keep tell me that you love me and i really do wanna believe but do you think i would just accept you in blind faith oh sure babe anything to please you you better be good to me that be how it be get to be now because i do not have the time for your over load line you better be good to me and i really do not see why it be so hard to be good to me and i do not understand what be your plan that you can not be good to me what i can not feel i surely can not see why can not you be good to me and if it be not real i do not wish to see why can not you be good to me,0.492,0.078,0.9945,1,/lyric/3427172/Tina+Turner/Better+Be+Good+to+Me+%5BExtended+Version%5D+%5B%2A%5D,"['Pop/Rock', 'R&B;']",7:02,"['amiable/good-natured', 'bravado', 'bright', 'brooding', 'confident', 'earnest', 'exuberant', 'gutsy']",Better Be Good to Me [Extended Version],https://www.allmusic.com/song/better-be-good-to-me-extended-version-mt0003749524
+7,The Beach Boys,exuberant,Summer Days (And Summer?,/album/summer-days-and-summer-nights%21%21-mw0000116156,"Well I walked up to her and I asked her if she wanted to dance
+She looked awful nice and so I hoped she might take a chance
+
+When we danced I held her tight
+Then I walked her home that night
+And all the stars were shining bright
+And then I kissed her
+
+Each time I saw her I couldn't wait to see her again
+I wanted to let her know that I was more than a friend
+
+I didn't know just what to do
+And so I whispered I love you
+And she said that she loved me too
+And then I kissed her
+
+I kissed her in a way that I'd never kissed a girl before
+I kissed her in a way that I hope she liked for evermore
+
+I knew that she was mine so I gave her all the love that I had
+Then one day she'll take me home to meet her mom and her dad
+
+Then I asked her to be my bride
+And always be right by my side
+I felt so happy that I almost cried
+And then I kissed her
+
+And then I kissed her
+And then I kissed her",well walk ask want dance look awful nice hop may take chance dance hold tight walk home night star shin bright kiss time see could not wait see want let know friend not know whisper love say love kiss kiss way would never kiss girl kiss way hope like evermore know mine give love one day take home meet mom dad ask bride always right side feel happy almost cry kiss kiss kiss,well i walk up to her and i ask her if she want to dance she look awful nice and so i hop she may take a chance when we dance i hold her tight then i walk her home that night and all the star be shin bright and then i kiss her each time i see her i could not wait to see her again i want to let her know that i be more than a friend i do not know just what to do and so i whisper i love you and she say that she love me too and then i kiss her i kiss her in a way that i would never kiss a girl before i kiss her in a way that i hope she like for evermore i know that she be mine so i give her all the love that i have then one day she will take me home to meet her mom and her dad then i ask her to be my bride and always be right by my side i feel so happy that i almost cry and then i kiss her and then i kiss her and then i kiss her,0.417,0.141,0.9781,1,/lyric/540490/The+Beach+Boys/Then+I+Kissed+Her,['Pop/Rock'],2:18,"['cheerful', 'earnest', 'innocent', 'joyous', 'poignant', 'romantic', 'sentimental', 'exuberant']",Then I Kissed Her,https://www.allmusic.com/song/then-i-kissed-her-mt0045331692
+8,The Beach Boys,exuberant,Summer Days (And Summer?,/album/summer-days-and-summer-nights%21%21-mw0000116156,"Well East coast girls are hip
+I really dig those styles they wear
+And the Southern girls with the way they talk
+They knock me out when I'm down there
+
+The Mid-West farmer's daughters really make you feel alright
+And the Northern girls with the way they kiss
+They keep their boyfriends warm at night
+
+I wish they all could be California girls
+I wish they all could be California
+I wish they all could be California girls
+
+The West coast has the sunshine
+And the girls all get so tanned
+I dig a french bikini on Hawaiin island dolls 
+By a palm tree in the sand
+
+I been all around this great big world
+And I seen all kinds of girls
+Yeah, but I couldn't wait to get back in the States
+Back to the cutest girls in the world
+
+I wish they all could be California girls
+I wish they all could be California
+I wish they all could be California girls
+
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls",well east coast girl hip really dig style wear southern girl way talk knock mid west farmer daughter really make feel alright northern girl way kiss keep boyfriend warm night wish could california girl wish could california wish could california girl west coast sunshine girl get tanned dig french bikini hawaiin island doll palm tree sand around great big world see kind girl yeah could not wait get back state back cut girl world wish could california girl wish could california wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl,well east coast girl be hip i really dig those style they wear and the southern girl with the way they talk they knock me out when i be down there the mid west farmer daughter really make you feel alright and the northern girl with the way they kiss they keep their boyfriend warm at night i wish they all could be california girl i wish they all could be california i wish they all could be california girl the west coast have the sunshine and the girl all get so tanned i dig a french bikini on hawaiin island doll by a palm tree in the sand i be all around this great big world and i see all kind of girl yeah but i could not wait to get back in the state back to the cut girl in the world i wish they all could be california girl i wish they all could be california i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl,0.38,0.014,0.9939,1,/lyric/35436776/The+Beach+Boys/California+Girls+%5BStereo%5D,['Pop/Rock'],2:40,"['summery', 'warm', 'effervescent', 'exuberant', 'rousing', 'sweet', 'boisterous', 'cheerful']",California Girls,https://www.allmusic.com/song/california-girls-mt0045331696
+9,The Beach Boys,exuberant,Summer Days (And Summer?,/album/summer-days-and-summer-nights%21%21-mw0000116156,"You're kinda small
+And your such a doll
+I'm glad you're mine
+You're so good to me
+How come you are
+
+You take my hand
+And you understand
+When I get in a bad mood
+You're so good to me
+And I love it, love it
+
+You're my baby, oh yeah
+Don't mean maybe, oh yeah
+
+I know your eyes
+Are not on 'ther guys
+When we're apart
+You're so true to me
+How come you are
+
+And every night
+You hold me so tight
+When I kiss you goodbye
+You're so good to me
+And I love it, love it
+
+You're my baby, oh yeah
+Don't mean maybe, oh yeah
+
+You're my baby, oh yeah
+Don't mean maybe, oh yeah
+
+You're my baby, oh yeah
+Don't mean maybe, oh yeah",kinda small doll glad mine good come take hand understand get bad mood good love love baby oh yeah not mean maybe oh yeah know eye not ther guy apart true come every night hold tight kiss goodbye good love love baby oh yeah not mean maybe oh yeah baby oh yeah not mean maybe oh yeah baby oh yeah not mean maybe oh yeah,you be kinda small and your such a doll i be glad you be mine you be so good to me how come you be you take my hand and you understand when i get in a bad mood you be so good to me and i love it love it you be my baby oh yeah do not mean maybe oh yeah i know your eye be not on ther guy when we be apart you be so true to me how come you be and every night you hold me so tight when i kiss you goodbye you be so good to me and i love it love it you be my baby oh yeah do not mean maybe oh yeah you be my baby oh yeah do not mean maybe oh yeah you be my baby oh yeah do not mean maybe oh yeah,0.53,0.034,0.9932,1,/lyric/540486/The+Beach+Boys/You%27re+So+Good+to+Me,['Pop/Rock'],2:16,"['cheerful', 'happy', 'joyous', 'sentimental', 'sweet', 'earnest', 'exuberant', 'poignant']",You're So Good to Me,https://www.allmusic.com/song/youre-so-good-to-me-mt0045331698
+10,The Beach Boys,exuberant,Summer Days (And Summer?,/album/summer-days-and-summer-nights%21%21-mw0000116156,"Well East coast girls are hip
+I really dig those styles they wear
+And the Southern girls with the way they talk
+They knock me out when I'm down there
+
+The Mid-West farmer's daughters really make you feel alright
+And the Northern girls with the way they kiss
+They keep their boyfriends warm at night
+
+I wish they all could be California girls
+I wish they all could be California
+I wish they all could be California girls
+
+The West coast has the sunshine
+And the girls all get so tanned
+I dig a french bikini on Hawaiin island dolls 
+By a palm tree in the sand
+
+I been all around this great big world
+And I seen all kinds of girls
+Yeah, but I couldn't wait to get back in the States
+Back to the cutest girls in the world
+
+I wish they all could be California girls
+I wish they all could be California
+I wish they all could be California girls
+
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls
+I wish they all could be California girls",well east coast girl hip really dig style wear southern girl way talk knock mid west farmer daughter really make feel alright northern girl way kiss keep boyfriend warm night wish could california girl wish could california wish could california girl west coast sunshine girl get tanned dig french bikini hawaiin island doll palm tree sand around great big world see kind girl yeah could not wait get back state back cut girl world wish could california girl wish could california wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl wish could california girl,well east coast girl be hip i really dig those style they wear and the southern girl with the way they talk they knock me out when i be down there the mid west farmer daughter really make you feel alright and the northern girl with the way they kiss they keep their boyfriend warm at night i wish they all could be california girl i wish they all could be california i wish they all could be california girl the west coast have the sunshine and the girl all get so tanned i dig a french bikini on hawaiin island doll by a palm tree in the sand i be all around this great big world and i see all kind of girl yeah but i could not wait to get back in the state back to the cut girl in the world i wish they all could be california girl i wish they all could be california i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl i wish they all could be california girl,0.38,0.014,0.9939,1,/lyric/35436776/The+Beach+Boys/California+Girls+%5BStereo%5D,['Pop/Rock'],2:47,"['summery', 'warm', 'effervescent', 'exuberant', 'rousing', 'sweet', 'boisterous', 'cheerful']",California Girls [Stereo],https://www.allmusic.com/song/california-girls-stereo-mt0045572499
+11,Van Morrison,exuberant,His Band and the Street?,/album/his-band-and-the-street-choir-mw0000191086,"Don't want to discuss it
+I think it's time for a change
+You may get disgusted
+Start thinkin' that I'm strange
+
+In that case I'll go underground
+Get some heavy rest
+Never have to worry
+About what is worst and what is best (get it)
+
+Oh oh Domino (all right)
+Roll me over Romeo
+There you go
+Lord have mercy
+
+I said oh oh Domino
+Roll me over Romeo
+There you go
+Say it again
+
+I said oh oh Domino
+I said oh oh Domino, dig it
+
+There's no need for argument
+There's no argument at all
+And if you never hear from him
+That just means he didn't call or vice versa
+That depends on wherever you're at
+Or and if you never hear from me
+That just means I would rather not
+
+Oh oh Domino
+Roll me over Romeo
+There you go
+Lord have mercy
+I said oh oh Domino
+Roll me over Romeo
+
+There you go
+Say it again
+Oh oh Domino
+I said oh oh Domino.
+
+Hey Mr. DJ 
+I just want to hear some rhythm and blues music 
+On the radio
+On the radio
+On the radio
+Uh-uh, all right
+Uh-uh, all right
+Uh-uh, all right
+Uh-uh
+Hear the band
+One more time",not want discuss think time change may get disgusted start thinkin strange case go underground get heavy rest never worry bad good get oh oh domino right roll romeo go lord mercy say oh oh domino roll romeo go say say oh oh domino say oh oh domino dig no need argument no argument never hear mean not call vice versa depend wherever never hear mean would rather not oh oh domino roll romeo go lord mercy say oh oh domino roll romeo go say oh oh domino say oh oh domino hey mr dj want hear rhythm blue music radio radio radio uh uh right uh uh right uh uh right uh uh hear band one time,do not want to discuss it i think it be time for a change you may get disgusted start thinkin that i be strange in that case i will go underground get some heavy rest never have to worry about what be bad and what be good get it oh oh domino all right roll me over romeo there you go lord have mercy i say oh oh domino roll me over romeo there you go say it again i say oh oh domino i say oh oh domino dig it there be no need for argument there be no argument at all and if you never hear from him that just mean he do not call or vice versa that depend on wherever you be at or and if you never hear from me that just mean i would rather not oh oh domino roll me over romeo there you go lord have mercy i say oh oh domino roll me over romeo there you go say it again oh oh domino i say oh oh domino hey mr dj i just want to hear some rhythm and blue music on the radio on the radio on the radio uh uh all right uh uh all right uh uh all right uh uh hear the band one more time,0.076,0.144,-0.7347,0,/lyric/5938077/Van+Morrison/Domino+%5BWith+Flute%5D,['R&B;'],3:06,"['confident', 'exuberant', 'happy', 'rollicking', 'rowdy']",Domino,https://www.allmusic.com/song/domino-mt0011949210
+12,Van Morrison,exuberant,His Band and the Street?,/album/his-band-and-the-street-choir-mw0000191086,"The photographer smiles
+Take a break for a while
+Take a rest, do your very best
+Take five, honey
+Five, honey
+
+You search in your bag
+Light up a fag
+Think it's a drag, but you're so glad
+To be alive honey
+Alive honey
+
+Said when this is all over
+You'll be in clover
+We'll go out and spend
+All of your blue money
+Blue money
+Blue money
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you do, n' do-do-do-you-do
+N' do-do
+
+Alright, (do-do) do-it
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you do, n' do-do-do-you-do
+N' do-do, do-do
+
+Alright, (do-do) do-it
+
+Well the cameraman smiles
+Take a break for a while
+Do your best, do your very best
+Take five, honey
+Take five
+
+You search in your bag
+Light up a fag
+Say it's a drag, but you're so glad
+To be alive honey
+Alive honey
+
+Said when this is all over
+You'll be in clover
+We'll go on out and spend
+All of your blue money
+Blue money
+Blue money alright
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you do, n' do-do-do-you-do
+N' do-do
+
+Alright, (do-do) do-it
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you do, n' do-do-do-you-do
+N' do-do, do-do
+Alright, (do-do) do-it
+
+One more time
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you do, n' do-do-do-you-do
+'N-do-do (do-do)
+
+Hey (do-do)
+
+Do-do-you-do, n'-do-do-you-do
+N' do-do-do-you-do, n' do-do-do-you-do
+'N-do-do
+
+Alright, do-do
+
+Say, when this is all over
+We'll be in clover
+We'll go out and spend all your
+
+(Blue money) blue money
+
+Blue money (blue money)
+
+Ooh juice money, loose money
+
+Juice money, loose money, honey
+
+(Do-do-do, do-do-do-do)
+What kind a money, honey?
+
+(Do-do-do, do-do-do-do)
+Juice money, loose money
+
+Blue money (do-do-do, do-do-do-do)
+
+Juice money
+
+Loose money (do-do-do, do-do-do-do)
+
+Blue money
+
+Hey, alright
+
+Juice money
+Ow
+Long as you wanna be",photographer smile take break take rest good take five honey five honey search bag light fag think drag glad alive honey alive honey say clover go spend blue money blue money blue money n n n n alright n n n n alright well cameraman smile take break good good take five honey take five search bag light fag say drag glad alive honey alive honey say clover go spend blue money blue money blue money alright n n n n alright n n n n alright one time n n n n hey n n n n alright say clover go spend blue money blue money blue money blue money ooh juice money loose money juice money loose money honey kind money honey juice money loose money blue money juice money loose money blue money hey alright juice money ow long wanna,the photographer smile take a break for a while take a rest do your very good take five honey five honey you search in your bag light up a fag think it be a drag but you be so glad to be alive honey alive honey say when this be all over you will be in clover we will go out and spend all of your blue money blue money blue money do do you do n do do you do n do do do you do n do do do you do n do do alright do do do it do do you do n do do you do n do do do you do n do do do you do n do do do do alright do do do it well the cameraman smile take a break for a while do your good do your very good take five honey take five you search in your bag light up a fag say it be a drag but you be so glad to be alive honey alive honey say when this be all over you will be in clover we will go on out and spend all of your blue money blue money blue money alright do do you do n do do you do n do do do you do n do do do you do n do do alright do do do it do do you do n do do you do n do do do you do n do do do you do n do do do do alright do do do it one more time do do you do n do do you do n do do do you do n do do do you do n do do do do hey do do do do you do n do do you do n do do do you do n do do do you do n do do alright do do say when this be all over we will be in clover we will go out and spend all your blue money blue money blue money blue money ooh juice money loose money juice money loose money honey do do do do do do do what kind a money honey do do do do do do do juice money loose money blue money do do do do do do do juice money loose money do do do do do do do blue money hey alright juice money ow long as you wanna be,0.31,0.12,0.9786,1,/lyric/877924/Van+Morrison/Blue+Money,['R&B;'],3:40,"['celebratory', 'exuberant', 'happy']",Blue Money,https://www.allmusic.com/song/blue-money-mt0011951109
+13,Phil Collins,exuberant,"Hello, I Must Be Going!",/album/hello-i-must-be-going%21-mw0000650001,"I need love, love
+Oh, ease my mind
+And I need to find time
+Someone to call mine
+
+My mama said, ""you can't hurry love
+No, you'll just have to wait""
+She said, ""love don't come easy
+But it's a game of give and take""
+You can't hurry love
+No, you'll just have to wait
+Just trust in a good time
+No matter how long it takes
+
+How many heartaches must I stand
+Before I find the love to let me live again
+Right now the only thing that keeps me hanging on
+When I feel my strength, ooh, it's almost gone
+
+I remember mama said, ""you can't hurry love
+No, you'll just have to wait""
+She said, ""love don't come easy
+It's a game of give and take""
+How long must I wait
+How much more must I take
+Before loneliness
+Will cause my heart, heart to break
+
+No, I can't bear to live my life alone
+I grow impatient for a love to call my own
+But when I feel that i, I can't go on
+Well these precious words keep me hanging on
+
+I remember mama said, ""you can't hurry love
+No, you'll just have to wait""
+She said, ""love don't come easy
+But it's a game of give and take""
+You can't hurry love
+No, you'll just have to wait
+Just trust in a good time
+No matter how long it takes
+
+Now wait
+Now love, love don't come easy
+But I keep on waiting
+Anticipating for that soft voice
+To talk to me at night
+For some tender arms
+Hold me tight
+I keep waiting
+Ooh, till that day
+But it ain't easy (love don't come easy)
+No, you know it ain't easy
+
+My mama said you can't hurry love
+No, you'll just have to wait
+She said ""love don't come easy
+But it's a game of give and take""
+You can't hurry love
+No, you'll just have to wait
+She said ""love don't come easy
+But it's a game of give and take""
+You can't hurry love, no you'll just have to wait",need love love oh ease mind need find time someone call mine mama say not hurry love no wait say love not come easy game give take not hurry love no wait trust good time no matter long take many heartache must stand find love let live right thing keep hang feel strength ooh almost go remember mama say not hurry love no wait say love not come easy game give take long must wait much must take loneliness heart heart break no not bear live life alone grow impatient love call feel not go well precious word keep hang remember mama say not hurry love no wait say love not come easy game give take not hurry love no wait trust good time no matter long take wait love love not come easy keep wait anticipate soft voice talk night tender arm hold tight keep wait ooh till day not easy love not come easy no know not easy mama say not hurry love no wait say love not come easy game give take not hurry love no wait say love not come easy game give take not hurry love no wait,i need love love oh ease my mind and i need to find time someone to call mine my mama say you can not hurry love no you will just have to wait she say love do not come easy but it be a game of give and take you can not hurry love no you will just have to wait just trust in a good time no matter how long it take how many heartache must i stand before i find the love to let me live again right now the only thing that keep me hang on when i feel my strength ooh it be almost go i remember mama say you can not hurry love no you will just have to wait she say love do not come easy it be a game of give and take how long must i wait how much more must i take before loneliness will because my heart heart to break no i can not bear to live my life alone i grow impatient for a love to call my own but when i feel that i i can not go on well these precious word keep me hang on i remember mama say you can not hurry love no you will just have to wait she say love do not come easy but it be a game of give and take you can not hurry love no you will just have to wait just trust in a good time no matter how long it take now wait now love love do not come easy but i keep on wait anticipate for that soft voice to talk to me at night for some tender arm hold me tight i keep wait ooh till that day but it as not easy love do not come easy no you know it as not easy my mama say you can not hurry love no you will just have to wait she say love do not come easy but it be a game of give and take you can not hurry love no you will just have to wait she say love do not come easy but it be a game of give and take you can not hurry love no you will just have to wait,0.424,0.112,0.9984,1,/lyric/2018489/Phil+Collins/You+Can%27t+Hurry+Love,['Pop/Rock'],2:50,"['amiable/good-natured', 'bright', 'cheerful', 'confident', 'dramatic', 'earnest', 'energetic', 'exuberant']",You Can't Hurry Love,https://www.allmusic.com/song/you-cant-hurry-love-mt0010706380
+14,INXS,exuberant,Kick,/album/kick-mw0000193443,"See the sound
+It crashes in
+All around
+It gets in
+Now take your hands
+And raise them up
+Into to the air
+That's all around ya
+Now bring them down
+Like a clock at two
+Shake your head
+You know what to do
+They want to put
+Guns in the sky
+Someone out there
+Ain't gonna like it
+
+But it could be good
+Make us love each other
+Have to realize
+I own the future
+
+Guns in the sky
+
+Guns in the sky
+
+Guns in the sky
+
+Guns in the sky
+
+Guns in the sky
+Child grows up to see
+Guns in the sky
+Used to be on TV
+
+Want to change
+Forgot the joke
+It's great to see you
+I'm running late, da da da
+Love your hair, da da da
+Lend me a ten, da da da
+I love your big house, da da da
+
+Could you spare a dime
+Well I'm sick of it, it's a load of shit
+We could stop the world and let of all the fools
+And let them go live with their guns in the sky
+
+Guns in the sky
+Guns in the sky
+Guns in the sky
+Guns in the sky
+Guns in the sky
+Guns in the sky
+Guns in the sky",see sound crash around get take hand raise air around ya bring like clock two shake head know want put gun sky someone not go like could good make us love realize future gun sky gun sky gun sky gun sky gun sky child grow see gun sky use tv want change forget joke great see run late da da da love hair da da da lend ten da da da love big house da da da could spare dime well sick load shit could stop world let fool let go live gun sky gun sky gun sky gun sky gun sky gun sky gun sky gun sky,see the sound it crash in all around it get in now take your hand and raise them up into to the air that be all around ya now bring them down like a clock at two shake your head you know what to do they want to put gun in the sky someone out there as not go to like it but it could be good make us love each other have to realize i own the future gun in the sky gun in the sky gun in the sky gun in the sky gun in the sky child grow up to see gun in the sky use to be on tv want to change forget the joke it be great to see you i be run late da da da love your hair da da da lend me a ten da da da i love your big house da da da could you spare a dime well i be sick of it it be a load of shit we could stop the world and let of all the fool and let them go live with their gun in the sky gun in the sky gun in the sky gun in the sky gun in the sky gun in the sky gun in the sky gun in the sky,0.213,0.333,-0.9274,0,/lyric/1171398/INXS/Guns+in+the+Sky,['Pop/Rock'],2:20,"['stylish', 'boisterous', 'confident', 'slick', 'brassy', 'energetic', 'exuberant', 'freewheeling']",Guns in the Sky,https://www.allmusic.com/song/guns-in-the-sky-mt0012495202
+15,INXS,exuberant,Kick,/album/kick-mw0000193443,"Take one step
+Out the door
+Look around
+For a whole lot more
+
+Off there in the distance
+Fire burn bright
+We make decisions
+That's what we do, that's what we do
+
+Wild life
+Wild life
+When it's bad it ain't bad enough
+
+I'll be your one
+Your one and only
+Like animals
+Locked in the zoo
+
+Oh, give me freedom
+Day and night
+No one to tell me
+What to do
+
+Off in the distance
+Fire burn bright
+We make decisions
+
+Wild life
+Wild life
+When it's bad it ain't bad enough
+
+I got to learn
+Some respect
+That's what I have
+I have for you
+
+Motivation, it comes and goes
+But the questions, they stay alive
+
+Wild life
+Wild life
+When it's bad it ain't bad enough",take one step door look around whole lot distance fire burn bright make decision wild life wild life bad not bad enough one one like animal lock zoo oh give freedom day night no one tell distance fire burn bright make decision wild life wild life bad not bad enough get learn respect motivation come go question stay alive wild life wild life bad not bad enough,take one step out the door look around for a whole lot more off there in the distance fire burn bright we make decision that be what we do that be what we do wild life wild life when it be bad it as not bad enough i will be your one your one and only like animal lock in the zoo oh give me freedom day and night no one to tell me what to do off in the distance fire burn bright we make decision wild life wild life when it be bad it as not bad enough i get to learn some respect that be what i have i have for you motivation it come and go but the question they stay alive wild life wild life when it be bad it as not bad enough,0.207,0.281,-0.8126,0,/lyric/2019288/INXS/Wild+Life,['Pop/Rock'],3:07,"['stylish', 'confident', 'fun', 'boisterous', 'celebratory', 'brash', 'energetic', 'exuberant']",Wild Life,https://www.allmusic.com/song/wild-life-mt0012487806
+16,INXS,exuberant,Kick,/album/kick-mw0000193443,"Come on
+Come on
+Come on
+Come on
+
+I look around
+Unsatisfied
+At what they're giving me
+But then I think
+To myself
+Is there someone else
+Oh, who feels the same as me
+Do you feel the same baby
+
+When my back is broken
+When the mountain moves away
+All the dreams and promises
+That we give
+We give away
+
+Sometimes you kick
+Sometimes you get kicked
+Sometimes you kick
+Sometimes you get kicked
+
+Sometimes you kick
+Sometimes you get kicked, oh
+Sometimes you kick
+Sometimes you get kicked, baby
+
+Look ahead
+But don't mix it up
+Baby look ahead
+To better days
+And better ways
+Make peace
+With flesh and blood
+Make peace
+With your love
+
+Nothing more I could ask of you
+But in the end this is the truth
+
+When my back is broken
+When the mountain moves away
+All the dreams and promises
+That we give
+We give away
+
+Sometimes you kick
+Sometimes you get kicked
+Sometimes you kick
+Sometimes you get kicked
+
+Sometimes you kick
+Sometimes you get kicked
+Sometimes you kick, oh
+Sometimes you get kicked
+
+Sometimes you kick
+Sometimes you get kicked, oh",come come come come look around unsatisfied give think someone else oh feel feel baby back break mountain move away dream promise give give away sometimes kick sometimes get kick sometimes kick sometimes get kick sometimes kick sometimes get kick oh sometimes kick sometimes get kick baby look ahead not mix baby look ahead good day good way make peace flesh blood make peace love nothing could ask end truth back break mountain move away dream promise give give away sometimes kick sometimes get kick sometimes kick sometimes get kick sometimes kick sometimes get kick sometimes kick oh sometimes get kick sometimes kick sometimes get kick oh,come on come on come on come on i look around unsatisfied at what they be give me but then i think to myself be there someone else oh who feel the same as me do you feel the same baby when my back be break when the mountain move away all the dream and promise that we give we give away sometimes you kick sometimes you get kick sometimes you kick sometimes you get kick sometimes you kick sometimes you get kick oh sometimes you kick sometimes you get kick baby look ahead but do not mix it up baby look ahead to good day and good way make peace with flesh and blood make peace with your love nothing more i could ask of you but in the end this be the truth when my back be break when the mountain move away all the dream and promise that we give we give away sometimes you kick sometimes you get kick sometimes you kick sometimes you get kick sometimes you kick sometimes you get kick sometimes you kick oh sometimes you get kick sometimes you kick sometimes you get kick oh,0.22,0.021,0.9726,1,/lyric/2019291/INXS/Kick,['Pop/Rock'],3:13,"['stylish', 'confident', 'fun', 'boisterous', 'celebratory', 'brash', 'energetic', 'exuberant']",Kick,https://www.allmusic.com/song/kick-mt0012497924
+17,INXS,exuberant,Kick,/album/kick-mw0000193443,"Well you spent the whole day
+With your axe to the wheel
+Read the late paper
+It was full of bad news
+Excuse me but I think
+What I'm saying is true
+You've got to find some time
+And devote it to you
+So come on down
+To the party
+Callin' all nations
+To put it on the line
+Come on down
+To the party
+Callin' all nations
+To put it on the line
+
+So come on all you people
+With the stars in your hair
+You know what's going on
+There's no need to despair
+Take the chains from you mind
+Take the chains from your feet
+And do the sex dance
+'Cause' it's necessary
+
+You don't have to be rich
+You don't have to be famous
+No you just
+Gotta have
+A little bit of patience
+Jump into your old car
+Or take a cab train or boat
+The only thing that matters
+Is that ya really gotta go
+
+So come on down
+To the party
+Callin' all nations
+To put it on the line
+Come on down
+To the party
+Callin' all nations
+To put it on the line
+
+Well you spent the whole day
+With your axe to the wheel
+Read the late paper
+It was full of bad news
+Excuse me but I think
+What I'm saying is true
+You've got to spend some time
+And devote it to you
+
+So come on down
+To the party
+Callin' all nations
+To put it on the line
+Come on down
+To the party
+Callin' all nations
+To put it on the line
+
+Callin' all nations
+Callin' all nations
+Callin' all nations
+Callin' all nations
+
+Callin' all nations
+Put it on the line
+Callin' all nations
+Put it on the line
+Callin' all nations
+Put it on the line
+Callin' all nations
+Put it on the line",well spend whole day axe wheel read late paper full bad news excuse think say true get find time devote come party callin nation put line come party callin nation put line come people star hair know go no need despair take chain mind take chain foot sex dance ecause necessary not rich not famous no get little bit patience jump old car take cab train boat thing matter ya really get go come party callin nation put line come party callin nation put line well spend whole day axe wheel read late paper full bad news excuse think say true get spend time devote come party callin nation put line come party callin nation put line callin nation callin nation callin nation callin nation callin nation put line callin nation put line callin nation put line callin nation put line,well you spend the whole day with your axe to the wheel read the late paper it be full of bad news excuse me but i think what i be say be true you have get to find some time and devote it to you so come on down to the party callin all nation to put it on the line come on down to the party callin all nation to put it on the line so come on all you people with the star in your hair you know what be go on there be no need to despair take the chain from you mind take the chain from your foot and do the sex dance ecause it be necessary you do not have to be rich you do not have to be famous no you just get to have a little bit of patience jump into your old car or take a cab train or boat the only thing that matter be that ya really get to go so come on down to the party callin all nation to put it on the line come on down to the party callin all nation to put it on the line well you spend the whole day with your axe to the wheel read the late paper it be full of bad news excuse me but i think what i be say be true you have get to spend some time and devote it to you so come on down to the party callin all nation to put it on the line come on down to the party callin all nation to put it on the line callin all nation callin all nation callin all nation callin all nation callin all nation put it on the line callin all nation put it on the line callin all nation put it on the line callin all nation put it on the line,0.201,0.113,0.9017,1,/lyric/2019292/INXS/Calling+All+Nations,['Pop/Rock'],3:00,"['stylish', 'confident', 'fun', 'boisterous', 'celebratory', 'brash', 'energetic', 'exuberant']",Calling All Nations,https://www.allmusic.com/song/calling-all-nations-mt0012483371
+18,INXS,exuberant,Kick,/album/kick-mw0000193443,"Ever stop to wonder
+Should I question
+Move a stone look under
+Should I judge
+
+How you have changed my friend
+You're not the same my friend
+Do you lose sleep at night
+Do you ever stop to think
+Where it went wrong for you
+Who turned your reds to blue
+
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+
+Ever stop to wonder
+I should not question
+Move a stone look under
+I should not judge
+
+They say you're never lonely
+They say you're with the best
+But when they turn those lights out
+I bet you spin and turn
+And cry just like the rest
+And cry just like a baby
+
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+
+Ever stop to wonder
+I should not question
+Move a stone look under
+I should not judge
+
+No need for desperation
+No need for sweet revenge
+Please try to remember
+The door is always there
+Don't you walk on by
+The door is always there
+
+All you want to do is kick it in
+All you got to do is walk right in
+
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+Who put those tiny daggers in your heart
+
+Who put those tiny daggers in your heart
+Oh yeah
+In your heart
+Yeah",ever stop wonder question move stone look judge change friend not friend lose sleep night ever stop think go wrong turn red blue put tiny dagger heart put tiny dagger heart put tiny dagger heart ever stop wonder not question move stone look not judge say never lonely say good turn light bet spin turn cry like rest cry like baby put tiny dagger heart put tiny dagger heart put tiny dagger heart ever stop wonder not question move stone look not judge no need desperation no need sweet revenge please try remember door always not walk door always want kick get walk right put tiny dagger heart put tiny dagger heart put tiny dagger heart put tiny dagger heart put tiny dagger heart put tiny dagger heart put tiny dagger heart oh yeah heart yeah,ever stop to wonder should i question move a stone look under should i judge how you have change my friend you be not the same my friend do you lose sleep at night do you ever stop to think where it go wrong for you who turn your red to blue who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart ever stop to wonder i should not question move a stone look under i should not judge they say you be never lonely they say you be with the good but when they turn those light out i bet you spin and turn and cry just like the rest and cry just like a baby who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart ever stop to wonder i should not question move a stone look under i should not judge no need for desperation no need for sweet revenge please try to remember the door be always there do not you walk on by the door be always there all you want to do be kick it in all you get to do be walk right in who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart who put those tiny dagger in your heart oh yeah in your heart yeah,0.179,0.158,0.1625,1,/lyric/2019293/INXS/Tiny+Daggers,['Pop/Rock'],3:29,"['stylish', 'confident', 'fun', 'boisterous', 'celebratory', 'brash', 'energetic', 'exuberant']",Tiny Daggers,https://www.allmusic.com/song/tiny-daggers-mt0012486263
+19,The Beach Boys,exuberant,Today!,/album/today%21-mw0000115529,"Do you want to dance and hold my hand
+Tell me baby I'm your lover man
+Oh baby do you want to dance?
+
+Do you want to dance under the moonlight
+Hold me baby all through the night
+Oh baby
+Do you want to dance?
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance?
+
+Do you want to dance under the moonlight
+Kiss me baby all through the night
+Oh baby
+Do you want to dance?
+
+Do you want to dance under the moonlight
+Squeeze me, squeeze me baby all through the night
+Oh baby
+Do you want to dance?
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance?
+
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance
+
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance
+Do you, do you, do you
+Do you want to dance",want dance hold hand tell baby lover man oh baby want dance want dance moonlight hold baby night oh baby want dance want dance want dance want dance want dance moonlight kiss baby night oh baby want dance want dance moonlight squeeze squeeze baby night oh baby want dance want dance want dance want dance want dance want dance want dance want dance want dance want dance,do you want to dance and hold my hand tell me baby i be your lover man oh baby do you want to dance do you want to dance under the moonlight hold me baby all through the night oh baby do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you want to dance under the moonlight kiss me baby all through the night oh baby do you want to dance do you want to dance under the moonlight squeeze me squeeze me baby all through the night oh baby do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance do you do you do you do you want to dance,0.449,0.0,0.9571,1,/lyric/382375/The+Beach+Boys/Do+You+Wanna+Dance%3F,['Pop/Rock'],2:21,"['exciting', 'gleeful', 'joyous', 'rousing', 'celebratory', 'exuberant', 'fun', 'happy']",Do You Wanna Dance?,https://www.allmusic.com/song/do-you-wanna-dance-mt0045331678
+20,The Beach Boys,exuberant,Today!,/album/today%21-mw0000115529,"(good to my baby)
+(good to my baby)
+(good to my baby)
+(good to my baby)
+
+They think I'm bad and I treat her so mean
+But all they know is from what they've seen
+And when I get her alone now
+You know we're happy as a couple could be
+And when I give her my love it's between her and me
+
+She's my girl and I'm good to my baby
+She's my girl and I'm good to my baby
+And I know she's happy with me
+(good to my baby)
+(good to my baby)
+
+Some guys may think they'd be better for her
+But she knows just what she wants for sure
+And when we're out with our friends now
+You know that we never have to put on a show
+And we stay together while other couples come and go
+
+She's my girl and I'm good to my baby
+She's my girl and I'm good to my baby
+And I know she's happy with me
+(good to my baby)
+(good to my baby)
+
+(good to my baby)
+(good to my baby)
+(good to my baby)
+(good to my baby)
+
+She's my girl and I'm good to my baby
+She's my girl and I'm good to my baby
+
+She's my girl and I'm good to my baby
+She's my girl and I'm good to my baby",good baby good baby good baby good baby think bad treat mean know see get alone know happy couple could give love girl good baby girl good baby know happy good baby good baby guy may think would good know want sure friend know never put show stay together couple come go girl good baby girl good baby know happy good baby good baby good baby good baby good baby good baby girl good baby girl good baby girl good baby girl good baby, good to my baby good to my baby good to my baby good to my baby they think i be bad and i treat her so mean but all they know be from what they have see and when i get her alone now you know we be happy as a couple could be and when i give her my love it be between her and me she be my girl and i be good to my baby she be my girl and i be good to my baby and i know she be happy with me good to my baby good to my baby some guy may think they would be good for her but she know just what she want for sure and when we be out with our friend now you know that we never have to put on a show and we stay together while other couple come and go she be my girl and i be good to my baby she be my girl and i be good to my baby and i know she be happy with me good to my baby good to my baby good to my baby good to my baby good to my baby good to my baby she be my girl and i be good to my baby she be my girl and i be good to my baby she be my girl and i be good to my baby she be my girl and i be good to my baby,0.594,0.038,0.9974,1,/lyric/1054545/The+Beach+Boys/Good+to+My+Baby,['Pop/Rock'],2:18,"['confident', 'earnest', 'sentimental', 'cheerful', 'exuberant', 'fun', 'lively', 'sweet']",Good to My Baby,https://www.allmusic.com/song/good-to-my-baby-mt0045331679
+21,The Beach Boys,exuberant,Today!,/album/today%21-mw0000115529,"After six hours of school I've had enough for the day
+I hit the radio dial and turn it up all the way
+
+I gotta dance (dance dance dance now the beat's really hot) right on the spot
+(Dance dance dance right there on the spot)
+The beat's really hot
+(Dance dance dance now the beat's really hot)
+Dance (dance) dance (dance) dance (dance) yeah!
+
+When I feel put down I try to shake it off quick
+With my chick by my side the radio does the trick
+
+I gotta dance (dance dance dance now the beat's really hot) right on the spot
+(Dance dance dance right there on the spot)
+The beat's really hot
+(Dance dance dance now the beat's really hot)
+Dance (dance) dance (dance) dance (dance) yeah!
+Oh man!
+
+At a weekend dance we like to show up last
+I play it cool when it's slow and jump in when it's fast
+
+I gotta dance (dance dance dance now the beat's really hot) right on the spot
+(Dance dance dance right there on the spot)
+The beat's really hot
+(Dance dance dance now the beat's really hot)
+Dance (dance) dance (dance) dance (dance) yeah!
+
+(Dance dance dance now the beat's really hot)
+(Dance dance dance right there on the spot)
+(Dance dance dance now the beat's really hot)
+Dance (dance) dance (dance) dance (dance) yeah!
+(Dance dance dance now the beat's really hot)
+(Dance dance dance right there on the spot)
+(Dance dance dance...)",six hour school enough day hit radio dial turn way get dance dance dance dance beat really hot right spot dance dance dance right spot beat really hot dance dance dance beat really hot dance dance dance dance dance dance yeah feel put try shake quick chick side radio trick get dance dance dance dance beat really hot right spot dance dance dance right spot beat really hot dance dance dance beat really hot dance dance dance dance dance dance yeah oh man weekend dance like show last play cool slow jump fast get dance dance dance dance beat really hot right spot dance dance dance right spot beat really hot dance dance dance beat really hot dance dance dance dance dance dance yeah dance dance dance beat really hot dance dance dance right spot dance dance dance beat really hot dance dance dance dance dance dance yeah dance dance dance beat really hot dance dance dance right spot dance dance dance,after six hour of school i have have enough for the day i hit the radio dial and turn it up all the way i get to dance dance dance dance now the beat really hot right on the spot dance dance dance right there on the spot the beat really hot dance dance dance now the beat really hot dance dance dance dance dance dance yeah when i feel put down i try to shake it off quick with my chick by my side the radio do the trick i get to dance dance dance dance now the beat really hot right on the spot dance dance dance right there on the spot the beat really hot dance dance dance now the beat really hot dance dance dance dance dance dance yeah oh man at a weekend dance we like to show up last i play it cool when it be slow and jump in when it be fast i get to dance dance dance dance now the beat really hot right on the spot dance dance dance right there on the spot the beat really hot dance dance dance now the beat really hot dance dance dance dance dance dance yeah dance dance dance now the beat really hot dance dance dance right there on the spot dance dance dance now the beat really hot dance dance dance dance dance dance yeah dance dance dance now the beat really hot dance dance dance right there on the spot dance dance dance ,0.093,0.017,0.9022,1,/lyric/21602/The+Beach+Boys/Dance%2C+Dance%2C+Dance,['Pop/Rock'],2:01,"['boisterous', 'energetic', 'exciting', 'lively', 'amiable/good-natured', 'celebratory', 'exuberant', 'happy']","Dance, Dance, Dance",https://www.allmusic.com/song/dance-dance-dance-mt0045331683
+22,The Chemical Brothers,exuberant,Brotherhood,/album/brotherhood-mw0000794121,"Hey girls 
+Hey boys
+Superstar DJ's
+Here we go
+
+Hey girls 
+Hey boys
+Superstar DJ's
+Here we go
+
+Hey girls 
+Hey boys
+Superstar DJ's
+Here we go
+
+Hey girl
+Hey boys
+Superstar DJ's
+Here we go
+
+Hey girl
+Hey boy
+Superstar DJ's
+Here we go
+
+Hey girl
+Hey boy
+Superstar DJ's
+Here we go
+
+Hey girl
+Hey boy
+Superstar DJ's
+Here we go
+
+Here we go
+Here we go
+
+Hey girls 
+Hey boys
+Superstar DJ's
+Here we go
+
+Here we go
+
+Here we go
+
+Here we go",hey girl hey boy superstar djs go hey girl hey boy superstar djs go hey girl hey boy superstar djs go hey girl hey boy superstar djs go hey girl hey boy superstar djs go hey girl hey boy superstar djs go hey girl hey boy superstar djs go go go hey girl hey boy superstar djs go go go go,hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go hey girl hey boy superstar djs here we go here we go here we go hey girl hey boy superstar djs here we go here we go here we go here we go,0.0,0.0,0.0,0,/lyric/3311119/The+Chemical+Brothers/Hey+Boy+Hey+Girl,['Electronic'],4:50,"['aggressive', 'celebratory', 'confident', 'energetic', 'exuberant', 'hypnotic', 'boisterous', 'carefree']",Hey Boy Hey Girl,https://www.allmusic.com/song/hey-boy-hey-girl-mt0027146196
+23,The Chemical Brothers,exuberant,Brotherhood,/album/brotherhood-mw0000794121,"Back with another one of those block rockin' beats
+Back with another one of those block rockin' beats
+Back with another one of those block rockin' beats
+Back with another one of those block rockin' beats
+
+Back with another one of those block rockin' beats
+
+Back with another one of those block rockin' beats
+
+(You're about ready to rock steady
+You're about ready to rock steady)
+
+Back with another one of those block rockin' beats
+
+Back with another one of those block rockin' beats",back another one block rockin beat back another one block rockin beat back another one block rockin beat back another one block rockin beat back another one block rockin beat back another one block rockin beat ready rock steady ready rock steady back another one block rockin beat back another one block rockin beat,back with another one of those block rockin beat back with another one of those block rockin beat back with another one of those block rockin beat back with another one of those block rockin beat back with another one of those block rockin beat back with another one of those block rockin beat you be about ready to rock steady you be about ready to rock steady back with another one of those block rockin beat back with another one of those block rockin beat,0.069,0.321,-0.9531,0,/lyric/1910679/The+Chemical+Brothers/Block+Rockin%27+Beats+%5BThe+Micronauts+Remix%5D,['Electronic'],4:54,"['confident', 'boisterous', 'celebratory', 'energetic', 'exuberant', 'freewheeling', 'fun', 'raucous']",Block Rockin' Beats,https://www.allmusic.com/song/block-rockin-beats-mt0018518232
+24,The Chemical Brothers,exuberant,Brotherhood,/album/brotherhood-mw0000794121,"You should feel what I feel, you should take what I take
+You should feel, you should feel
+",feel feel take take feel feel,you should feel what i feel you should take what i take you should feel you should feel,0.0,0.0,0.0,0,/lyric/5926668/The+Chemical+Brothers/Star+Guitar+%5BTrisco+la+Funk+Dub%5D,['Electronic'],6:10,"['confident', 'energetic', 'exuberant', 'celebratory', 'aggressive', 'boisterous', 'carefree', 'intense']",Star Guitar,https://www.allmusic.com/song/star-guitar-mt0026397909
+25,The Chemical Brothers,exuberant,Brotherhood,/album/brotherhood-mw0000794121,"And how does it feel like to wake up in the sun,
+And how does it feel like to shine on everyone,
+How does it feel like to let forever be,
+And how does it feel like to spend a little lifetime
+Sitting in the gutter screaming symphony 
+
+How does it feel like to sail in on the breeze,
+And how does it feel like to spend a little lifetime
+Sitting in the gutter screaming symphony 
+
+And how does it feel like to make it happening,
+And how does it feel like to breath with everything,
+And how does it feel like to let forever be,
+And how does it feel like to spend a little lifetime
+Sitting in the gutter screaming symphony 
+
+And how does it feel like to to be a Christian being
+And how does it feel like to spend a little lifetime
+Sitting in the gutter screaming symphony",feel like wake sun feel like shine everyone feel like let forever feel like spend little lifetime sit gutter scream symphony feel like sail breeze feel like spend little lifetime sit gutter scream symphony feel like make happen feel like breath everything feel like let forever feel like spend little lifetime sit gutter scream symphony feel like christian feel like spend little lifetime sit gutter scream symphony,and how do it feel like to wake up in the sun and how do it feel like to shine on everyone how do it feel like to let forever be and how do it feel like to spend a little lifetime sit in the gutter scream symphony how do it feel like to sail in on the breeze and how do it feel like to spend a little lifetime sit in the gutter scream symphony and how do it feel like to make it happen and how do it feel like to breath with everything and how do it feel like to let forever be and how do it feel like to spend a little lifetime sit in the gutter scream symphony and how do it feel like to to be a christian being and how do it feel like to spend a little lifetime sit in the gutter scream symphony,0.327,0.118,0.9451,1,/lyric/3033167/Noel+Gallagher/Let+Forever+Be,['Electronic'],3:42,"['confident', 'energetic', 'exuberant', 'celebratory', 'gutsy', 'slick', 'sophisticated', 'street-smart']",Let Forever Be,https://www.allmusic.com/song/let-forever-be-mt0028049408
+26,The Chemical Brothers,exuberant,Brotherhood,/album/brotherhood-mw0000794121,"Out of control (x3)
+Sometimes I feel that I'm misunderstood,
+The river's running deep right through my blood.
+Your naked body's lying on the ground,
+You always get me up when I'm down.
+And it always seems we're running out of time.
+We're out of control,
+out of control,
+out of control.
+It may be that I'm just scared of losing you,
+or maybe it's the things you make me do.
+It seems to me we both should hang around,
+and raise the population of this town.
+And it always seems we're running out of time.
+We're out of control,
+out of control,
+out of control.
+Out of control.
+But it doesn't mean we're too far down the line.
+We're out of control,
+out of control,
+We're out of control.
+Out of control.
+
+The record player keeps on turning round,
+It could be stuck, or maybe it's a sound (?).
+All this time I should be there with you,
+or maybe I'm just searching for the truth,
+or maybe I'm just searching for the truth.
+And it always seems we're running out of time.
+We're out of control,
+out of Control,
+we're out of control.
+Out of control
+But it doesn't mean we're too far down the line.
+We're out of control,
+out of Control,
+We're out of control.
+
+Out of control(x5)
+It could be that I'm losing my touch,
+or maybe you think my moushtache is too much.
+Satellite is out of control,
+But you and I are brothers of this sun.
+And you and I will come down from the cold.
+Out of control.
+Out of control.
+*We're out of control,
+Out of Control,
+We're out of control.
+Out of control.
+Out of control,
+
+out of control*
+(repeat * verse x3)
+",control x sometimes feel misunderstand river run deep right blood naked bodys lie ground always get always seem run time control control control may scared lose maybe thing make seem hang around raise population town always seem run time control control control control not mean far line control control control control record player keep turn round could stick maybe sound time maybe search truth maybe search truth always seem run time control control control control not mean far line control control control control x could lose touch maybe think moushtache much satellite control brother sun come cold control control control control control control control control repeat verse x,out of control x sometimes i feel that i be misunderstand the river run deep right through my blood your naked bodys lie on the ground you always get me up when i be down and it always seem we be run out of time we be out of control out of control out of control it may be that i be just scared of lose you or maybe it be the thing you make me do it seem to me we both should hang around and raise the population of this town and it always seem we be run out of time we be out of control out of control out of control out of control but it do not mean we be too far down the line we be out of control out of control we be out of control out of control the record player keep on turn round it could be stick or maybe it be a sound all this time i should be there with you or maybe i be just search for the truth or maybe i be just search for the truth and it always seem we be run out of time we be out of control out of control we be out of control out of control but it do not mean we be too far down the line we be out of control out of control we be out of control out of control x it could be that i be lose my touch or maybe you think my moushtache be too much satellite be out of control but you and i be brother of this sun and you and i will come down from the cold out of control out of control we be out of control out of control we be out of control out of control out of control out of control repeat verse x ,0.04,0.094,-0.7351,0,/lyric/3359585/The+Chemical+Brothers/Out+of+Control+%5BSasha+Remix%5D,['Electronic'],7:21,"['confident', 'energetic', 'exuberant', 'celebratory', 'aggressive', 'boisterous', 'carefree', 'intense']",Out of Control,https://www.allmusic.com/song/out-of-control-mt0018497292
+27,George Harrison,exuberant,Let It Roll: The Best of?,/album/let-it-roll-the-best-of-george-harrison-mw0000819317,"What I feel, I can't say
+But my love is there for you, any time of day
+But if it's not love that you need
+Then I'll try my best to make everything succeed
+
+Tell me, what is my life without your love
+Tell me, who am I without you, by my side?
+
+What I know, I can do
+If I give my love now to everyone like you
+But if it's not love that you need
+Then I'll try my best to make everything succeed
+
+Tell me, what is my life without your love
+Tell me, who am I without you, by my side
+Tell me, what is my life without your love
+Tell me, who am I without you, by my side?
+
+What I feel, I can't say
+But my love is there for you any time of day
+But if it's not love that you need
+Then I'll try my best to make everything succeed
+
+Tell me, what is my life without your love
+Tell me, who am I without you, by my side
+Oh tell me, what is my life without your love
+Tell me, who am I without you, by my side?
+
+What is my life without your love
+Tell me, who am I without you, by my side?",feel not say love time day not love need try good make everything succeed tell life without love tell without side know give love everyone like not love need try good make everything succeed tell life without love tell without side tell life without love tell without side feel not say love time day not love need try good make everything succeed tell life without love tell without side oh tell life without love tell without side life without love tell without side,what i feel i can not say but my love be there for you any time of day but if it be not love that you need then i will try my good to make everything succeed tell me what be my life without your love tell me who be i without you by my side what i know i can do if i give my love now to everyone like you but if it be not love that you need then i will try my good to make everything succeed tell me what be my life without your love tell me who be i without you by my side tell me what be my life without your love tell me who be i without you by my side what i feel i can not say but my love be there for you any time of day but if it be not love that you need then i will try my good to make everything succeed tell me what be my life without your love tell me who be i without you by my side oh tell me what be my life without your love tell me who be i without you by my side what be my life without your love tell me who be i without you by my side ,0.166,0.323,-0.9666,0,/lyric/31183065/George+Harrison/What+Is+Life+%5BBacking+Track%5D,['Pop/Rock'],4:24,"['amiable/good-natured', 'earnest', 'bright', 'cheerful', 'confident', 'energetic', 'exuberant', 'joyous']",What Is Life,https://www.allmusic.com/song/what-is-life-mt0010138610
+28,R.E.M.,exuberant,"Part Lies, Part Heart,?",/album/part-lies-part-heart-part-truth-part-garbage-1982-2011-mw0002232417,"Stand in the place where you live
+Now face north
+Think about direction, wonder why you haven't before
+Now stand in the place where you work
+Now face west, think about the place where you live
+Wonder why you haven't before
+
+If you are confused, check with the sun
+Carry a compass to help you along
+Your feet are going to be on the ground
+Your head is there to move you around
+
+So, stand in the place where you live
+Now face north
+Think about direction, wonder why you haven't before
+Now stand in the place where you work
+Now face west, think about the place where you live
+Wonder why you haven't before
+
+Your feet are going to be on the ground
+Your head is there to move you around
+If wishes were trees the trees would be falling
+Listen to reason
+Season is calling
+
+Stand in the place where you live
+Now face north
+Think about direction, wonder why you haven't before
+Now stand in the place where you work
+Now face west, think about the place where you live
+Wonder why you haven't before
+
+If wishes were trees the trees would be falling
+Listen to reason
+Reason is calling
+Your feet are going to be on the ground
+Your head is there to move you around
+
+So stand (stand)
+Now face north
+Think about direction, wonder why you haven't before
+Now stand (stand)
+Now face west
+Think about the place where you live
+Wonder why you haven't
+
+Stand in the place where you live
+Now face north
+Think about direction, wonder why you haven't before
+Now stand in the place where you work
+Now face west, think about the place where you live
+Wonder why you haven't before
+
+Stand in the place where you are (now face north)
+Stand in the place where you are (now face west)
+Your feet are going to be on the ground (stand in the place where you are)
+Your head is there to move you around, so stand",stand place live face north think direction wonder not stand place work face west think place live wonder not confused check sun carry compass help along foot go ground head move around stand place live face north think direction wonder not stand place work face west think place live wonder not foot go ground head move around wish tree tree would fall listen reason season call stand place live face north think direction wonder not stand place work face west think place live wonder not wish tree tree would fall listen reason reason call foot go ground head move around stand stand face north think direction wonder not stand stand face west think place live wonder not stand place live face north think direction wonder not stand place work face west think place live wonder not stand place face north stand place face west foot go ground stand place head move around stand,stand in the place where you live now face north think about direction wonder why you have not before now stand in the place where you work now face west think about the place where you live wonder why you have not before if you be confused check with the sun carry a compass to help you along your foot be go to be on the ground your head be there to move you around so stand in the place where you live now face north think about direction wonder why you have not before now stand in the place where you work now face west think about the place where you live wonder why you have not before your foot be go to be on the ground your head be there to move you around if wish be tree the tree would be fall listen to reason season be call stand in the place where you live now face north think about direction wonder why you have not before now stand in the place where you work now face west think about the place where you live wonder why you have not before if wish be tree the tree would be fall listen to reason reason be call your foot be go to be on the ground your head be there to move you around so stand stand now face north think about direction wonder why you have not before now stand stand now face west think about the place where you live wonder why you have not stand in the place where you live now face north think about direction wonder why you have not before now stand in the place where you work now face west think about the place where you live wonder why you have not before stand in the place where you be now face north stand in the place where you be now face west your foot be go to be on the ground stand in the place where you be your head be there to move you around so stand,0.063,0.0,0.8427,1,/lyric/939564/R.E.M./Stand,['Pop/Rock'],3:11,"['playful', 'whimsical', 'exuberant', 'quirky']",Stand,https://www.allmusic.com/song/stand-mt0042665442
+29,R.E.M.,exuberant,"Part Lies, Part Heart,?",/album/part-lies-part-heart-part-truth-part-garbage-1982-2011-mw0002232417,"Sleep delays my life (get up, get up)
+Where does time go? (get up, get up, get up)
+I don't know, oh
+Sleep, sleep, sleepy head (get up, get up, get up)
+Wake it up, up (get up, get up)
+You've got all your life (way up ahead)
+(Get up, get up, get up)
+
+Dreams, they complicate my life (dreams, they complement my life)
+
+I've seen you lay and pine (get up, get up)
+I've seen you lay and pine (get up, get up)
+Life is rough, rough (get up, get up, get up)
+I've seen you laying down (get up)
+With the loving kind (get up, get up)
+I know life is hard, hard (where goes your time?)
+Where to turn, where to turn? (get up, get up)
+
+Dreams, they complicate my life (dreams, they complement my life)
+
+D-d-dream time
+
+Dreams, they complicate my life (dreams, they complement my life)
+This time, no escape, I wake up (get up, get up)
+Get up, get up
+Get up
+Get up
+Get up, get up, get up",sleep delay life get get time go get get get not know oh sleep sleep sleepy head get get get wake get get get life way ahead get get get dream complicate life dream complement life see lay pine get get see lay pine get get life rough rough get get get see lay get loving kind get get know life hard hard go time turn turn get get dream complicate life dream complement life dream time dream complicate life dream complement life time no escape wake get get get get get get get get get,sleep delay my life get up get up where do time go get up get up get up i do not know oh sleep sleep sleepy head get up get up get up wake it up up get up get up you have get all your life way up ahead get up get up get up dream they complicate my life dream they complement my life i have see you lay and pine get up get up i have see you lay and pine get up get up life be rough rough get up get up get up i have see you lay down get up with the loving kind get up get up i know life be hard hard where go your time where to turn where to turn get up get up dream they complicate my life dream they complement my life d d dream time dream they complicate my life dream they complement my life this time no escape i wake up get up get up get up get up get up get up get up get up get up,0.205,0.065,0.9287,1,/lyric/7545851/R.E.M./Get+Up,['Pop/Rock'],2:39,"['energetic', 'exuberant', 'playful']",Get Up,https://www.allmusic.com/song/get-up-mt0042665444
+30,Van Morrison,exuberant,Still on Top: The Greatest?,/album/still-on-top-the-greatest-hits-mw0000491040,"Hey, where did we go?
+Days when the rains came
+Down in the hollow
+Playin' a new game
+Laughing and a running hey, hey
+Skipping and a jumping
+In the misty morning fog with
+Our hearts a thumpin' and you
+My brown-eyed girl
+You, my brown-eyed girl
+
+Whatever happened
+To Tuesday and so slow?
+Going down the old mine
+With a transistor radio
+Standing in the sunlight laughing
+Hiding behind a rainbow's wall
+Slipping and sliding
+All along the waterfall, with you
+My brown-eyed girl
+You, my brown-eyed girl
+
+Do you remember when we used to sing
+Sha la la la la la la la la la la te da
+Just like that
+Sha la la la la la la la la la la te da, la te da
+
+So hard to find my way
+Now that I'm all on my own
+I saw you just the other day
+My, how you have grown
+Cast my memory back there, Lord
+Sometimes I'm overcome thinking 'bout
+Making love in the green grass
+Behind the stadium with you
+My brown-eyed girl
+You, my brown-eyed girl
+
+Do you remember when we used to sing
+Sha la la la la la la la la la la te da
+Sha la la la la la la la la la la te da, la te da
+(Bit by bit, by bit, by bit, by bit, by bit)
+(Sha la la la la la la, la te da, la te da
+Sha la la la la la la la la la la te da, la te da
+(La te da, da da da da da da da da)",hey go day rain come hollow playin new game laughing run hey hey skip jumping misty morning fog heart thumpin brown eyed girl brown eyed girl whatev happen tuesday slow go old mine transistor radio stand sunlight laugh hide behind rainbow wall slip slide along waterfall brown eyed girl brown eyed girl remember use sing sha la la la la la la la la la la te da like sha la la la la la la la la la la te da la te da hard find way see day grow cast memory back lord sometimes overcome think bout make love green grass behind stadium brown eyed girl brown eyed girl remember use sing sha la la la la la la la la la la te da sha la la la la la la la la la la te da la te da bit bit bit bit bit bit sha la la la la la la la te da la te da sha la la la la la la la la la la te da la te da la te da da da da da da da da da,hey where do we go day when the rain come down in the hollow playin a new game laughing and a run hey hey skip and a jumping in the misty morning fog with our heart a thumpin and you my brown eyed girl you my brown eyed girl whatev happen to tuesday and so slow go down the old mine with a transistor radio stand in the sunlight laugh hide behind a rainbow wall slip and slide all along the waterfall with you my brown eyed girl you my brown eyed girl do you remember when we use to sing sha la la la la la la la la la la te da just like that sha la la la la la la la la la la te da la te da so hard to find my way now that i be all on my own i see you just the other day my how you have grow cast my memory back there lord sometimes i be overcome think bout make love in the green grass behind the stadium with you my brown eyed girl you my brown eyed girl do you remember when we use to sing sha la la la la la la la la la la te da sha la la la la la la la la la la te da la te da bit by bit by bit by bit by bit by bit sha la la la la la la la te da la te da sha la la la la la la la la la la te da la te da la te da da da da da da da da da ,0.068,0.016,0.9081,1,/lyric/101716/Van+Morrison/Brown+Eyed+Girl,"['Pop/Rock', 'R&B;']",3:03,"['exuberant', 'organic', 'romantic', 'sentimental', 'sweet', 'gentle', 'innocent', 'laid-back/mellow']",Brown Eyed Girl,https://www.allmusic.com/song/brown-eyed-girl-mt0009683357
+31,Van Morrison,exuberant,Still on Top: The Greatest?,/album/still-on-top-the-greatest-hits-mw0000491040,"Don't want to discuss it
+I think it's time for a change
+You may get disgusted
+Start thinkin' that I'm strange
+
+In that case I'll go underground
+Get some heavy rest
+Never have to worry
+About what is worst and what is best (get it)
+
+Oh oh Domino (all right)
+Roll me over Romeo
+There you go
+Lord have mercy
+
+I said oh oh Domino
+Roll me over Romeo
+There you go
+Say it again
+
+I said oh oh Domino
+I said oh oh Domino, dig it
+
+There's no need for argument
+There's no argument at all
+And if you never hear from him
+That just means he didn't call or vice versa
+That depends on wherever you're at
+Or and if you never hear from me
+That just means I would rather not
+
+Oh oh Domino
+Roll me over Romeo
+There you go
+Lord have mercy
+I said oh oh Domino
+Roll me over Romeo
+
+There you go
+Say it again
+Oh oh Domino
+I said oh oh Domino.
+
+Hey Mr. DJ 
+I just want to hear some rhythm and blues music 
+On the radio
+On the radio
+On the radio
+Uh-uh, all right
+Uh-uh, all right
+Uh-uh, all right
+Uh-uh
+Hear the band
+One more time",not want discuss think time change may get disgusted start thinkin strange case go underground get heavy rest never worry bad good get oh oh domino right roll romeo go lord mercy say oh oh domino roll romeo go say say oh oh domino say oh oh domino dig no need argument no argument never hear mean not call vice versa depend wherever never hear mean would rather not oh oh domino roll romeo go lord mercy say oh oh domino roll romeo go say oh oh domino say oh oh domino hey mr dj want hear rhythm blue music radio radio radio uh uh right uh uh right uh uh right uh uh hear band one time,do not want to discuss it i think it be time for a change you may get disgusted start thinkin that i be strange in that case i will go underground get some heavy rest never have to worry about what be bad and what be good get it oh oh domino all right roll me over romeo there you go lord have mercy i say oh oh domino roll me over romeo there you go say it again i say oh oh domino i say oh oh domino dig it there be no need for argument there be no argument at all and if you never hear from him that just mean he do not call or vice versa that depend on wherever you be at or and if you never hear from me that just mean i would rather not oh oh domino roll me over romeo there you go lord have mercy i say oh oh domino roll me over romeo there you go say it again oh oh domino i say oh oh domino hey mr dj i just want to hear some rhythm and blue music on the radio on the radio on the radio uh uh all right uh uh all right uh uh all right uh uh hear the band one more time,0.076,0.144,-0.7347,0,/lyric/5938077/Van+Morrison/Domino+%5BWith+Flute%5D,['R&B;'],3:09,"['confident', 'exuberant', 'happy', 'rollicking', 'rowdy']",Domino,https://www.allmusic.com/song/domino-mt0009683351
+32,Van Morrison,exuberant,Still on Top: The Greatest?,/album/still-on-top-the-greatest-hits-mw0000491040,"Jackie Wilson said
+It was Reet Petite
+Kinda love you got
+Knock me off my feet
+Let it all hang out
+Oh, let it all hang out
+And you know
+I'm so wired up
+Don't need no coffee in my cup
+Let it all hang out
+Let it all hang out
+
+Ding a ling a ling
+Ding a ling a ling ding
+Ding a ling a ling
+Ding a ling a ling ding
+Do da do da
+I'm in heaven, I'm in heaven
+I'm in heaven, when you smile
+When you smile, when you smile
+When you smile
+And when you walk
+Across the room
+You make my heart go
+Boom boom boom
+Let it all hang out
+Baby, let it all hang out
+And every time
+You look that way
+Honey child, you make my day
+Let it all hang out
+Like the man said let it all hang out
+
+Ding a ling a ling
+Ding a ling a ling ding
+Ding a ling a ling
+Ding a ling a ling ding
+Do da do da
+I'm in heaven, I'm in heaven
+I'm in heaven, when you smile
+When you smile
+I'm in heaven, I'm in heaven
+I'm in heaven, when you smile
+One more time
+I'm in heaven, I'm in heaven
+I'm in heaven, when you smile
+When you smile",jackie wilson say reet petite kinda love get knock foot let hang oh let hang know wired not need no coffee cup let hang let hang l ling l ling ding l ling l ling ding da da heaven heaven heaven smile smile smile smile walk across room make heart go boom boom boom let hang baby let hang every time look way honey child make day let hang like man say let hang l ling l ling ding l ling l ling ding da da heaven heaven heaven smile smile heaven heaven heaven smile one time heaven heaven heaven smile smile,jackie wilson say it be reet petite kinda love you get knock me off my foot let it all hang out oh let it all hang out and you know i be so wired up do not need no coffee in my cup let it all hang out let it all hang out d a l a ling d a l a ling ding d a l a ling d a l a ling ding do da do da i be in heaven i be in heaven i be in heaven when you smile when you smile when you smile when you smile and when you walk across the room you make my heart go boom boom boom let it all hang out baby let it all hang out and every time you look that way honey child you make my day let it all hang out like the man say let it all hang out d a l a ling d a l a ling ding d a l a ling d a l a ling ding do da do da i be in heaven i be in heaven i be in heaven when you smile when you smile i be in heaven i be in heaven i be in heaven when you smile one more time i be in heaven i be in heaven i be in heaven when you smile when you smile,0.501,0.0,0.9965,1,/lyric/101720/Van+Morrison/Jackie+Wilson+Said+%28I%27m+in+Heaven+When+You+Smile%29,['R&B;'],2:59,"['exuberant', 'rousing', 'passionate']",Jackie Wilson Said (I'm in Heaven When You Smile),https://www.allmusic.com/song/jackie-wilson-said-im-in-heaven-when-you-smile-mt0009683353
+33,Van Morrison,exuberant,Still on Top: The Greatest?,/album/still-on-top-the-greatest-hits-mw0000491040,"Real real gone
+I got hit by a bow and arrow
+Got me down to the very marrow
+And I'm real, real gone
+
+Real real gone
+I can't stand up by myself
+Don't you know I need your help
+And I'm real, real gone
+
+Some people say
+You can make it on your own
+Oh you can make it if you try
+I know better now
+You can't stand up alone
+Oh baby that is why
+
+I'm real, real gone
+I can't stand up by myself
+Don't you know I need your help
+You're a friend of mine
+And I'm real, real gone
+
+And Sam Cooke is on the radio
+And the night is filled with space
+And your fingertips touch my face
+You're a friend of mine
+And I'm real, real gone
+
+I'm real gone
+Oh Lord I got hit by a bow and arrow
+Got me down to the very marrow
+You're a friend of mine
+And I'm real, real gone
+And I'm real, real gone
+I'm real gone
+
+Wilson Pickett said:
+""In the midnight hour,
+That's when my love comes tumbling down""
+Solomon Burke said:
+""If you need me, why don't you call me""
+James Brown said:
+""When you're tired of what you got, try me""
+Gene Chandler said:
+""There's a rainbow in my soul""",real real go get hit bow arrow get marrow real real go real real go not stand not know need help real real go people say make oh make try know good not stand alone oh baby real real go not stand not know need help friend mine real real go sam cooke radio night fill space fingertip touch face friend mine real real go real go oh lord get hit bow arrow get marrow friend mine real real go real real go real go wilson pickett say midnight hour love come tumble solomon burke say need not call jame brown say tired get try gene chandler say rainbow soul,real real go i get hit by a bow and arrow get me down to the very marrow and i be real real go real real go i can not stand up by myself do not you know i need your help and i be real real go some people say you can make it on your own oh you can make it if you try i know good now you can not stand up alone oh baby that be why i be real real go i can not stand up by myself do not you know i need your help you be a friend of mine and i be real real go and sam cooke be on the radio and the night be fill with space and your fingertip touch my face you be a friend of mine and i be real real go i be real go oh lord i get hit by a bow and arrow get me down to the very marrow you be a friend of mine and i be real real go and i be real real go i be real go wilson pickett say in the midnight hour that be when my love come tumble down solomon burke say if you need me why do not you call me jame brown say when you be tired of what you get try me gene chandler say there be a rainbow in my soul ,0.145,0.058,0.9006,1,/lyric/941110/Van+Morrison/Real+Real+Gone,['Pop/Rock'],3:40,"['enigmatic', 'exuberant', 'freewheeling', 'greasy', 'passionate']",Real Real Gone,https://www.allmusic.com/song/real-real-gone-mt0009683364
